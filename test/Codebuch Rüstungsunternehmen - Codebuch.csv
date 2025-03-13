@@ -1,0 +1,26 @@
+CODEBUCH,,
+,,
+Achtung: das Codebuch wird immer als eigene Datei in Github gesetzt.,,
+,,
+,,
+edgelist,,
+Attribut,Beschreibung,Beispiel
+ID,from: Herkunftsbeziehung / to: Zugehörigkeit,10 to 1
+position/Studiengang,Welche Position hatte Person bei dem Unternehmen inne? Welchen Studiengang hat sie besucht?,Chief Executive Officer
+year start,Startjahr der Beschäftigung/des Studiums der Person ,2013
+year end,Endjahr der Beschäftigung/des Studiums der Person ,2017
+year total,"Gesamtzahl der Jahre im Studium/Unternehmen, gerundet auf ganze Jahre",5
+region,"Ort, in dem Person tätig war/studiert hat",Ditzingen
+current,"1 = nein, 2 = ja / ist die Position aktuell?",2
+management,"Management bedeutet, die Person ist bei dem Unternehmen im Vorstand/ in GF (gewesen) / 1 = nein, 2 = ja",1
+relation,"1 = Arbeit, 2 = Studium, 3 = Mitglied im Verband oder Gewerkschaft",
+,,
+nodelist,,
+Attribut,Beschreibung,Beispiel
+ID,Eindeutige numerische Kennung jeder Person und jedes Unternehmens,94
+Name,Vollständiger Name der Person,Oliver Dörre
+Geschlecht,"Geschlecht der Person / 1 = männlich, 2 = weiblich",2
+Alter / Gründungsjahr,"Geburtsjahr, Gründungsjahr des UN",54
+Type," Welcher Kategorie gehört Knoten an? / 1 = Unternehmen, 2 = Rüstungsunternehmen, 3 = Vorstand, 4 = Universität, 5 = Gewerkschaft, 6 = Aufsichtsrat, 7 = Verband, 8 = anderes",3
+Title,Akademischer Titel,Prof. / Dipl. Ing.
+Umsatz 2023,Umsatz des Unternehmens 2023,
