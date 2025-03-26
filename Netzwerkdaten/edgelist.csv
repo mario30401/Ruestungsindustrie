@@ -1,0 +1,1158 @@
+from,to ,position,year_start,year_end,year_total,current,management,relation,region
+10,1,Chief Executive Officer,2024,2025,1,2,2,1,Ditzingen
+10,2,Head of Division Spectrum,2022,2023,1,1,2,1,Taufkirchen
+12,2,Chief Executive Officer,2024,2025,1,2,2,1,Taufkirchen
+12,1,Chief Executive Officer,2021,2023,3,1,2,1,Ditzingen
+12,292,Offizier,1988,1989,1,1,1,2,Fürstenfeldbruck
+12,319,Tactical Control Officer,1994,1994,1,1,1,2,Fort Bliss
+12,30,General Staff Officer,2001,2003,1,1,1,2,Hamburg
+12,221,Tactical Control Officer,1993,1995,2,1,1,1,Westertimke
+12,320,Head of Software Development ,1995,1999,4,1,1,1,Glons
+12,221,Company Commander,1999,2001,2,1,1,1,Burbach
+12,221,Senior Expert Command,2003,2005,2,1,1,1,Köln
+12,329,Executive Officer,2005,2006,1,1,1,1,Bonn
+12,221,Head of Department Command,2006,2006,1,1,1,1,Bonn
+12,329,Deputy Branch Chief Capability Management,2007,2010,3,1,1,1,Bonn
+12,336,Director Marketing,2012,2013,0,1,2,1,Langen
+12,336,Director Defence Solutions,2013,2015,2,1,2,1,Langen
+12,336,Inside Director of Board of Directors ,2013,2015,2,1,2,1,Maryland
+12,1,Director Country Business Unit,2015,2016,2,1,2,1,Ditzingen
+12,1,Vice President Marketing & Sales,2016,2021,4,1,2,1,Ditzingen
+11,1,Chief Financial Officer,2023,2025,2,2,2,1,Ditzingen
+13,2,Chief Financial Officer,2022,2025,3,2,2,1,Taufkirchen
+13,9,Head of Controlling Customer Support,2014,2015,2,1,1,1,Taufkirchen
+13,59,Supply Chain Controlling,2006,2010,4,1,1,1,NA
+13,9,Head of Centre Controlling Supply Chain Management,2010,2014,3,1,1,1,NA
+13,233,Senior Lecturer,2014,2022,8,1,1,1,München
+13,2,Head of Central Controlling,2015,2020,5,1,1,1,Taufkirchen
+13,2,Head of Site Management ,2018,2022,4,1,1,1,Taufkirchen
+13,2,Head of Group Controlling & Investor Relations,2020,2022,2,1,1,1,Taufkirchen
+14,3,Chief Executive Officer,2016,2025,9,2,2,1,Kongsberg
+15,3,"Executive Vice President, Chief Financial Officer",2023,2025,2,2,2,1,Kongsberg
+16,4,Chief Executive Officer,2023,2025,2,2,2,1,München
+17,4,Chief Operating Officer,2023,2025,2,2,2,1,München
+18,5,Chief Operations Officer,2025,2025,0,2,2,1,Düsseldorf
+18,5,Chief Executive Officer,2023,2025,2,1,2,1,Unterlüß
+19,5,Chief Financial Officer,2023,2025,2,2,2,1,Düsseldorf
+20,6,Chief Executive Officer,2019,2025,5,2,2,1,Überlingen
+21,6,Chief Financial Officer,2019,2025,5,2,2,1,Überlingen
+22,7,Chief Executive Officer,2021,2024,4,2,2,1,Bergisch Gladbach
+23,7,Chief Financial Officer,2022,2023,3,2,2,1,Bergisch Gladbach
+24,8,Chief Executive Officer,2023,2025,2,2,2,1,Neuss
+24,360,NA,1988,1991,3,1,1,1,Stuttgart
+24,367,Professor,1991,NA,NA,NA,1,1,Lecce
+24,368,Gastprofessor,1996,1996,1,1,1,1,Richmond
+24,369,Gastprofessor,1997,1997,1,1,1,1,Bunkyō
+24,370,NA,2001,NA,NA,NA,NA,1,Lecce
+24,371,Scientific Director,2006,NA,NA,NA,2,1,Genua
+24,371,Chief Executive Officer,2006,NA,NA,NA,2,1,Genua
+24,8,Chief Technology and Innovation Officer,2019,NA,NA,1,2,1,Rom
+25,8,Chief Financial Officer,2017,2025,7,2,2,1,Rom
+25,39,Business Administration,NA,NA,NA,1,1,2,Stanford
+25,49,Wirtschaft,NA,NA,NA,1,1,2,Rom
+25,8,Senior Manager,2006,2025,19,2,2,1,Rom
+26,9,Chief Human Resources Officer ,2012,2025,13,2,2,1,Taufkirchen
+27,9,Chief Executive Officer,2019,2025,6,2,2,1,Taufkirchen
+10,28,Student,1997,2002,5,1,1,2,Stuttgart
+11,29,Executive Master of Accounting and Taxation (EMAT),2009,2011,2,1,1,2,Mannheim
+11,41,Student,2004,2007,3,1,1,2,Ravensburg
+12,42,Student,1989,1993,4,1,1,2,München
+13,31,Student,2006,2010,4,1,1,2,Greenlands-GB
+13,42,Student,2001,2005,4,1,1,2,München
+14,32,Student,1987,1989,2,1,1,2,Vestfold-NO
+15,33,Student,2001,2001,1,1,1,2,Melbourne-AU
+15,43,Student,1997,2001,4,1,1,2,Bergen-NO
+16,34,Student,NA,NA,NA,1,1,2,Cambridge-US
+17,35,Student,2001,2004,3,1,1,2,Wharley End-GB
+17,44,Student,1992,1997,5,1,1,2,München
+19,45,Student,1991,1997,6,1,1,2,Karlsruhe
+20,28,Student,NA,NA,NA,1,1,2,Stuttgart
+22,36,Student,NA,1984,NA,1,1,2,Paris-FR
+22,46,Student,NA,1981,NA,1,1,2,Palaiseau-FR
+23,37,Student,1994,1994,1,1,1,2,Toulouse-FR
+23,47,Student,1986,1991,5,1,1,2,Montigny-le-Bretonneux-FR
+23,48,Student,2016,2017,1,1,1,2,Paris-FR
+24,38,Student,NA,NA,NA,1,1,2,Bari-IT
+25,39,Student,NA,NA,NA,1,1,2,Stanford-US
+25,49,Student,NA,NA,NA,1,1,2,Rom-IT
+26,51,Student,NA,1985,NA,1,1,2,Villetaneuse-FR
+26,40,Student,NA,1988,NA,1,1,2,Paris-FR
+27,46,Student,1987,1990,3,1,1,2,Palaiseau-FR
+27,37,Student,1990,1992,2,1,1,2,Toulouse-FR
+27,50,Student,1998,2000,2,1,1,2,Marseille-FR
+52,54,Student,NA,1990,NA,1,1,2,Duisburg
+52,5,Chief Executive Officer,2013,2025,12,2,2,1,Düsseldorf
+52,5,Mitglied des Vorstandes ,2012,2013,1,1,2,1,Düsseldorf
+52,5,Geschäftsbereichsleiter,2007,2012,6,1,1,1,Düsseldorf
+52,5,Geschäftsführer ,2001,2007,6,1,1,1,Düsseldorf
+52,5,Qualitätsmanager ,1990,2001,10,1,1,1,Düsseldorf
+53,44,Student,1996,1998,2,1,1,2,München
+53,55,Student,1990,1995,5,1,1,2,Passau
+53,59,Leitung Fachreferat ,1998,2000,2,1,1,1,Wolfsburg
+53,56,Leitung Personalwesen,2001,2008,8,1,1,1,Stuttgart
+53,1,Vizepräsident Human Resources & Communications,2009,2013,4,1,1,1,Stuttgart
+53,57,Chief Human Resources Officer ,2013,2022,9,1,2,1,Mainz
+53,58,Chief Human Resources Officer ,2022,2024,2,1,2,1,Kitzingen
+53,5,Chief Human Resources Officer ,2024,2025,1,2,2,1,Düsseldorf
+18,5,Präsident Mechatronik,2018,2023,5,1,1,1,Neuß
+18,63,Präsident Geschäftsbereich Sensors and Actuators,2017,2018,1,1,1,1,Detroit-US
+18,60,Managing Director ,2010,2013,3,1,1,1,Pune-IN
+18,61,Senior Manager Controlling,2007,2010,3,1,1,1,Neuß
+61,5,Ehemalige Unternehmenszusammengehörigkeit,NA,NA,NA,,,,NA
+18,62,Financial Controller,2005,2007,2,1,1,1,Greenville-US
+60,5,Ehemalige Unternehmenszusammengehörigkeit,,,,,,,NA
+61,63,Unternehmenszugehörigkeit,,,,,,,NA
+62,63,Unternehmenszugehörigkeit,,,,,,,NA
+19,64,Manager,2004,2007,3,1,1,1,NA
+19,64,Senior Audit Manager ,2007,2012,6,1,1,1,NA
+19,5,Senior Vizepräsident Accounting,2012,2024,12,1,1,1,Düsseldorf
+66,65,Chief Executive Officer,2025,2025,0,2,2,1,Augsburg
+66,65,Chief Operating Officer,2024,2025,1,1,2,1,Augsburg
+66,5,Chief Executive Officer,2023,2024,1,1,2,1,Bremen
+66,5,Chief Executive Officer,2018,2025,5,1,2,1,Unterlüss
+66,5,Chief Executive Officer,2014,2018,4,1,2,1,Neckarsulm
+66,5,Geschäftsführer ,2012,2014,2,1,1,1,Neckarsulm
+66,5,Vizepräsident,2010,2012,2,1,1,1,Neckarsulm
+66,5,Vizepräsident ,2005,2009,5,1,1,1,Neckarsulm
+66,67,Executive Assistant,2003,2005,2,1,1,1,Stuttgart
+66,67,Team Manager,2000,2003,3,1,1,1,Ulm
+66,67,Trainee,1998,2000,2,1,1,1,Stuttgart
+66,68,Student,1996,1999,3,1,1,2,Ulm
+66,69,Student,1991,1996,5,1,1,2,Berlin
+70,5,Chief Financial Officer,2024,2025,0,2,2,1,NA
+71,70,Unternehmenszugehörigkeit,,,,,,,NA
+70,71,Chief Financial Officer,2024,2025,0,2,2,1,NA
+70,5,Head of Corporate Finance,2023,2024,1,1,1,1,NA
+70,72,Vizepräsident ,2023,2023,0,1,1,1,NA
+70,73,Head of Accounting,2020,2022,2,1,1,1,NA
+70,74,Head of Accounting,2017,2020,2,1,1,1,NA
+70,75,Head of Corporate Internal Audit,2016,2017,1,1,1,1,NA
+70,76,Senior Manager ,1996,2016,20,1,1,1,NA
+70,77,Student,NA,NA,NA,1,1,2,Freiburg-CH
+78,65,Chief Operating Officer,2025,2025,0,2,2,1,Augsburg
+78,79,Chief Executive Officer,2019,2024,4,1,2,1,"Stuttgart, Graz"
+78,80,Chief Operating Officer,2015,2019,4,1,2,1,Affalterbach
+78,67,Director,2010,2015,6,1,1,1,Sindelfingen
+78,81,Chief Executive Officer,2006,2007,1,1,2,1,Kaufering
+78,67,Senior Manager,2000,2006,6,1,1,1,Sindelfingen
+78,67,Manager,1998,2000,3,1,1,1,Sindelfingen
+78,45,Student,1993,1998,6,1,1,2,Karlsruhe
+78,45,Student,1989,1993,4,1,1,2,Karlsruhe
+82,83,Managing Partner,2007,2025,18,2,1,1,Frankfurt am Main
+82,84,Investment Professional,2004,2007,3,1,1,1,London-GB
+82,85,Analyst,2001,2004,3,1,1,1,London-GB
+82,86,Student,1997,1999,2,1,1,2,Reutlingen
+82,87,Student,1999,2001,2,1,1,2,Dublin-IE
+82,65,Aufsichtsrat,2023,2025,2,2,1,1,Augsburg
+89,65,Unternehmenszugehörigkeit,,,,,,,NA
+88,71,Ausbildung,1981,1985,4,1,1,1,NA
+88,71,Operator,1985,2014,19,1,1,1,NA
+88,71,Stellvertretender Vorsitzender des Betriebsrats,2014,2018,4,1,1,1,NA
+88,71,Vorsitzender des Betriebsrats,2018,2025,7,2,1,1,NA
+88,71,Mitglied des Betriebsrats,1998,2014,16,1,1,1,NA
+89,90,Student,2002,2006,4,1,1,2,Hamburg
+89,59,Ausbildung,1994,1998,4,1,1,1,Hannover
+89,59,Industriemechaniker,1998,1999,1,1,1,1,Hannover
+89,59,Industriemechaniker,2000,2002,2,1,1,1,Hannover
+89,91,Trainee,2006,2007,1,1,1,1,Frankfurt
+89,91,Gewerkschaftssekretär,2007,2016,9,1,1,1,Hannover
+89,91,Kassierer,2016,2017,1,1,1,1,Hannover
+89,91,Zweiter Bevollmächtigter,2017,2023,6,1,1,1,Hannover
+89,91,Erster Bevöllmächtigter,2023,2025,2,2,1,1,Hannover
+88,65,Aufsichtsrat,2023,2025,2,2,1,1,Augsburg
+89,65,Aufsichtsrat,2023,2025,2,2,1,1,Augsburg
+92,65,Aufsichtsrat,2023,2025,2,2,1,1,Augsburg
+92,71,Ausbildung,1985,1988,3,1,1,1,Augsburg
+92,91,Weiterbildung,1997,2024,NA,1,1,1,NA
+92,71,Zerspanungsmechaniker,1988,2017,29,1,1,1,Rheine
+92,71,Betriebsratvorsitzender,2017,2025,7,2,1,1,Rheine
+92,71,Vorsitzender Wirtschaftsausschuss,2022,2025,3,2,1,1,Rheine
+93,94,Student,1996,1999,3,1,1,2,Stuttgart
+93,65,Aufsichtsrat,2024,2025,1,2,1,1,Augsburg
+93,79,Positionen in Qualität und Einkauf,1999,2008,9,1,1,1,Stuttgart
+93,79,Leitung in div. Positionen,2008,2023,15,1,1,1,"Stuttgart, Peking,Sindelfingen"
+93,95,Chief Operating Officer,2023,2025,2,2,2,1,München
+96,97,Student,NA,2001,NA,1,1,2,Augsburg
+96,98,"Accountant, Leitung",2002,2008,6,1,1,1,"München,Augsburg"
+96,71,Chief Accountant,2008,2013,5,1,1,1,Augsburg
+96,71,"Qualitätsmanager, Leitung in div. Pos.",2013,2023,10,2,1,1,Augsburg
+96,65,Aufsichtsrat,2023,2025,2,2,1,1,Augsburg
+99,65,Aufsichtsrat,2023,2025,2,2,1,1,Augsburg
+99,94,Student,2006,2009,3,1,1,2,"Stuttgart,London-GB"
+99,100,Chartered Financial Analyst,2013,2015,2,1,1,2,Charlottesville-US
+99,101,Controller,2009,2010,1,1,1,1,Heidenheim
+99,64,Senior Associate,2011,2013,2,1,1,1,"Stuttgart,Frankfurt"
+99,102,Board Member,2022,2023,2,1,1,1,Heidenheim
+99,83,Investment Advisory Professional ,2014,2025,11,2,1,1,Frankfurt am Main
+103,104,Student,1991,1996,5,1,1,2,Dresden
+103,105,Program for Executive Development,2001,2001,1,1,1,2,Lausanne-CH
+103,106,Senior Consultant,1996,1999,3,1,1,1,München
+103,65,Aufsichtsrat,2024,2025,1,2,1,1,Augsburg
+103,107,Senior Associate,1999,2002,3,1,1,1,München
+103,108,Partner,2002,2012,10,1,1,1,Hamburg
+103,109,Board Member,2008,2013,5,1,1,1,Regensburg
+103,110,Advisor,2013,2014,1,1,1,1,Haag-CH
+103,103,Senior Advisor,2015,2023,8,1,1,1,Hamburg
+103,111,"Aufsichtsrat, Committee Member",2015,2023,8,1,1,1,Jena
+103,112,Aufsichtsrat,2017,2023,6,1,1,1,Hamburg
+103,113,Aufsichtsrat,2018,2023,5,1,1,1,NA
+103,114,Aufsichtsrat,2020,2023,3,1,1,1,Essen
+103,115,Geschäftsführerin ,2023,2024,1,1,1,1,Schindellegi-CH
+116,117,Ausbildung,2000,2002,2,1,1,1,Ingolstadt
+116,118,NA,2007,2008,1,1,1,2,Frankfurt am Main
+116,91,Trainee,2008,2009,1,1,1,1,NA
+116,117,Logistikfachkraft,2002,2007,5,1,1,1,Ingolstadt
+116,65,Aufsichtsrat,2024,2025,1,1,1,1,Augsburg
+116,91,Bildungsreferentin,2009,2015,6,1,1,1,Beverungen
+116,91,Gewerkschaftsreferentin,2015,2017,2,1,1,1,NA
+116,91,Leitung,2017,2024,7,1,1,1,Beverungen
+116,91,"Zweiter Bevollmächtigter, Geschäftsführer",2024,2025,1,2,1,1,Augsburg
+119,120,Student,2001,2004,3,1,1,2,NA
+119,121,Arbeitsvorbereiter,2004,2013,8,1,1,1,Plauen
+119,65,Aufsichtsrat,2023,2025,2,2,1,1,Augsburg
+119,71,"Prozessplaner, Leitung",2013,2025,12,2,1,1,Augsburg
+122,65,Aufsichtsrat,2024,2025,1,2,1,1,Augsburg
+122,97,Student,1989,1994,5,1,1,2,Augsburg
+122,123,Student,1992,1993,1,1,1,2,Dayton-US
+122,59,Trainee,1995,1996,2,1,1,1,Wolfsburg
+122,59,Leitung und div. Pos.,1996,2006,11,1,1,1,Wolfsburg
+124,59,Unternehmenszugehörigkeit,,,,,,,NA
+122,124,Vorsitzende der Geschäftsführung,2007,2010,4,1,1,1,Wolfsburg
+122,125,Geschäftsführer,2010,2014,3,1,1,1,Zwickau
+125,59,Unternehmenszugehörigkeit,,,,,,,NA
+122,126,Chief Financial Officer,2014,2018,4,1,2,1,Dornbirn-AT
+122,127,Aufsichtsrat,2016,2019,3,1,1,1,Schramberg
+122,128,Aufsichtsrat,2014,2020,6,1,1,1,Berlin
+122,129,Chief Financial Officer,2019,2021,2,1,2,1,Düsseldorf
+122,130,Verwaltungsrat,2020,2022,2,1,1,1,Luzern-CH
+122,58,Aufsichtsrat,2022,2023,1,1,1,1,Nürnberg
+122,122,Board Advisor,2021,2025,4,2,1,1,NA
+122,131,"Aufsichtsrat, Senior Advisor",2022,2025,3,2,1,1,Jenbach-AT
+122,132,Verwaltungsrat,2022,2025,2,2,1,1,Zürich-CH
+133,65,Aufsichtsrat,2023,2025,2,2,1,1,Augsburg
+133,134,Student,1980,1986,6,1,1,2,Darmstadt
+133,135,Assistant,1986,1987,1,1,1,1,Darmstadt
+133,136,"Manager, Director, Head of",1986,2001,15,1,1,1,"Essen, Ennigerloh, Rheinhausen, Johannesburg-ZA"
+133,137,Chief Executive Officer,2001,2006,4,1,2,1,Radolfzell
+121,138,Unternehmenszugehörigkeit,,,,,,,NA
+133,138,Vorstand,2007,2011,4,1,1,1,München
+133,139,Chief Executive Officer,2012,2015,4,1,2,1,Winterthur-CH
+133,140,Beiratsvorsitzender,2018,2020,2,1,1,1,Herne
+133,141,Director,2020,2025,5,1,1,1,London-GB
+142,5,Aufsichtsrat,2016,2025,9,2,1,1,Düsseldorf
+142,143,Student,1982,1987,5,1,1,2,Münster
+142,106,Wirtschaftsprüfer,1989,1993,4,1,1,1,Düsseldorf
+142,5,Manager,1993,2001,8,1,1,1,Düsseldorf
+142,144,Präsident,2013,2016,4,1,1,1,Berlin
+142,145,Mitgliedergruppenvertreter,2012,2025,13,2,1,1,Hannover
+142,146,Beiratsmitglied,2015,2025,10,2,1,1,Frankfurt am Main
+142,147,Member of the European Board of Adivsors,2017,2025,8,2,1,1,London-GB
+142,148,Aufsichtsrat,2019,2025,6,2,1,1,Essen
+142,149,Vorsitzender der Geschäftsführung,2018,2015,7,2,2,1,Datteln
+142,150,Vorstand,2001,2025,24,2,2,1,Duisburg
+151,5,Aufsichtsrat,2017,2025,8,2,1,1,Düsseldorf
+151,45,Student,1975,1981,6,1,1,2,Karlsruhe
+151,45,Doktorand,1981,1985,4,1,1,2,Karlsruhe
+151,152,Trainee,1985,1987,2,1,1,1,München
+151,152,"Qualitätsmanager, Führungspos. ",1987,1999,12,1,1,1,München
+151,152,Leitung in div. Positionen,2000,2006,6,1,1,1,München
+151,153,Vorstand,2006,2016,10,1,2,1,München
+153,152,Unternehmenszugehörigkeit,,,,,,,NA
+154,3,Executive Vice President,1990,2025,35,2,2,1,Kongsberg
+154,567,Student,NA,NA,NA,1,1,2,Kongsberg
+155,3,Executive Vice President,2007,2025,18,2,2,1,Kongsberg
+155,156,Student,1999,2001,2,1,1,2,NA
+157,3,Executive Vice President,2013,2025,12,2,2,1,Kongsberg
+158,5,Aufsichtsrat,2024,2025,1,2,1,1,Düsseldorf
+158,160,Student,NA,1996,NA,1,1,2,Trier
+158,161,"Manager, Senior Manager",1996,2002,6,1,1,1,Ludwigshafen
+157,159,Chief Financial Officer,2010,2013,5,1,1,1,Mandal
+158,161,Director,2002,2003,1,1,1,1,Ludwigshafen
+158,161,"Vice President, Senior Vice President",2004,2009,5,1,1,1,Ludwigshafen
+158,161,President,2009,2017,8,1,2,1,Ludwigshafen
+158,161,Vorstand,2017,2023,6,1,2,1,Ludwigshafen
+158,162,Chief Executive Officer,2024,2025,1,2,2,1,Kremsmünster-AT
+158,163,Board Member,2023,2025,2,2,1,1,NA
+157,43,Student,2000,2004,4,1,1,2,Bergen
+164,5,Aufsichtsrat,2002,2025,23,2,1,1,Düsseldorf
+165,3,Executive Vice President,1998,2025,27,2,2,1,Kongsberg
+164,166,Ausbildung,1977,1979,3,1,1,1,Bremen
+164,134,Student,1979,1983,4,1,1,2,Darmstadt
+164,134,Doktorand,1983,1985,2,1,1,2,Darmstadt
+164,167,NA,1986,1988,2,1,1,1,Hamburg
+164,167,"Vorstandsasstistent, Leitung",1988,1993,2,1,1,1,Frankfurt am Main
+164,168,Generalbevollmächtigter,1993,2000,7,1,1,1,München
+164,167,"Leiter, Vorstand",2000,2009,9,1,2,1,Frankfurt am Main
+164,169,Professor,2008,2025,17,2,1,1,München
+170,171,Student,NA,NA,NA,1,1,2,Bochum
+170,171,Doktorand,NA,NA,NA,1,1,2,Bochum
+170,172,NA,1993,1994,1,1,1,1,NA
+170,106,NA,1994,1998,4,1,1,1,München
+170,76,NA,1998,2003,5,1,1,1,NA
+170,5,Leiter  ,2003,2007,4,1,1,1,Düsseldorf
+170,171,Professor ,2007,2025,18,2,1,1,Bochum
+170,173,Wirtschaftsprüfer,2009,2025,16,2,1,1,Berlin
+174,175,Student,NA,1995,NA,1,1,2,Freiburg
+174,176,Student,1995,1999,4,1,1,2,Lund-SE
+174,64,Executive,1999,2003,4,1,1,1,München
+174,177,Manager,2003,2005,2,1,1,1,München
+174,178,Manager,2005,2007,2,1,1,1,München
+174,138,Senior Manager,2007,2008,1,1,1,1,München
+174,179,Chief Financial Officer,2008,2015,7,1,2,1,"München, Moskau-RU"
+179,138,Unternehmenszugehörigkeit,,,,,,,NA
+174,180,Senior Manager,2016,2016,1,1,1,1,Pratteln-CH
+174,181,Head of,2016,2019,3,1,1,1,Duisburg
+174,182,Chief Financial Officer,2020,2022,2,1,2,1,Friedrichshafen
+174,183,Advisory Board Member,2021,2022,1,1,1,1,Berlin
+174,5,Aufsichtsrat,2022,2025,3,2,1,1,Düsseldorf
+174,184,Chief Financial Officer,2023,2025,2,2,2,1,München
+185,186,Student,1991,1999,8,1,1,2,"Köln, Düsseldorf"
+185,187,Aufsichtsrat,2017,2019,2,1,1,1,Hamburg
+185,188,Aufsichtsrat,2016,2019,3,1,1,1,Essen
+185,189,Aufsichtsrat,2007,2025,18,2,1,1,Düsseldorf
+185,190,Vorstand,2011,2025,14,2,2,1,Köln
+185,5,Aufsichtsrat,2024,2025,1,2,1,1,Düsseldorf
+185,191,Aufsichtsrat,2012,2025,13,2,1,1,Büdelsdorf
+185,192,Geschäftsführer,2012,2025,13,2,2,1,Düsseldorf
+193,194,Elektrotechnik,NA,1978,NA,1,1,2,Duisburg
+193,195,NA,1982,1992,10,1,1,1,NA
+193,196,Vice President,1992,2009,17,1,,1,NA
+193,197,Geschäftsführer,2009,2012,3,1,2,1,Traunreut
+193,198,Chief Executive Officer,2011,2012,1,1,2,1,München
+193,195,Beiratsmitglied,2011,2015,4,1,1,1,NA
+193,199,Aufsichtsrat,2012,2016,4,1,1,1,NA
+60,199,Unternehmenszugehörigkeit,,,,,,,NA
+193,200,Beiratsmitglied,2002,2019,17,1,1,1,Homberg
+193,201,Aufsichtsrat,2014,2021,7,1,1,1,NA
+193,202,Aufsichtsrat,2022,2022,1,1,1,1,NA
+193,5,Aufsichtsrat,2016,2025,9,2,1,1,Düsseldorf
+165,232,Student,1984,1988,4,1,1,2,Oslo-NO
+165,234,Board Member,2020,2025,5,2,1,1,Andøy-NO
+165,235,Fafo,2019,2025,6,2,1,1,Oslo-NO
+242,243,Student,1988,1999,11,1,1,2,Jena
+242,243,Scientific Assistant ,1993,1999,5,1,1,1,Jena
+242,9,Senior Vice President,2009,2013,5,1,1,1,Toulouse-FR
+242,9,Executive Vice President,2014,2022,9,1,1,1,München
+242,2,Chief Human Resources Officer,2022,2025,3,2,2,1,München
+165,236,Board Member,2017,2025,8,2,2,3,Oslo-NO
+165,237,Chairman of the Board,2009,2025,16,2,2,1,Oslo-NO
+165,238,Board Member,2006,2024,18,1,2,3,Oslo-NO
+165,239,Senior Adviser,1997,1998,1,1,1,1,Oslo-NO
+165,240,State Secretary,1993,1996,3,1,1,1,Oslo-NO
+165,241,Adviser,1988,1993,5,1,1,1,Oslo-NO
+244,3,Executive Vice President,2020,2025,5,2,2,1,Kongsberg
+244,239,Senior Vice President,2017,2018,1,1,2,1,Oslo-NO
+245,3,Unternehmenszugehörigkeit,,,,,,,NA
+244,245,Board Member,2022,2024,2,1,2,1,Helsinki-FI
+244,246,Board Member,2015,2018,3,1,2,1,Lysaker-NO
+244,247,Board Member,2015,2017,2,1,2,1,Oslo-NO
+244,248,Chairman of the Board,2013,2014,1,1,2,1,Oslo-NO
+244,355,Board Member,2018,2022,4,1,2,1,Oppland-NO
+244,3,Board Member,2019,2022,4,1,2,1,Kongsberg
+244,3,Chief Financial Officer,2018,2020,2,1,2,1,Kongsberg
+356,3,Executive Vice President,2023,2025,2,2,2,1,Kongsberg
+244,43,Student,1997,2001,4,1,1,2,Bergen-NO
+203,204,Director Future Systems | Member of the Board,2022,2025,3,2,2,1,Berlin/Brandenburg 
+203,205,Member of the Advisory,2023,2025,2,2,2,1,Bayern
+203,206,Member of the Management Board ,2020,2025,5,2,2,1,International
+203,207,Executive Board Representative Defence and Security,2020,2022,2,1,2,1,Deutschland
+203,42,Student,NA,2015,NA,1,1,2,München
+208,205,"Director, Division Head",2021,2025,3,2,2,1,Schobernhausen
+208,210,"Vizepräsident, Leiter in div. Pos.",2008,2020,13,1,2,1,Ottobrunn
+208,211,Doktorand,NA,NA,NA,1,1,1,München
+208,212,Doktorand,NA,NA,NA,1,1,1,München
+356,357,Executive Education,2011,2011,1,1,1,2,Cambridge-GB
+356,358,Student,1988,2005,17,1,1,2,Tromsø-NO
+356,359,Rechtsanwalt,2000,2003,3,1,1,1,Oslo-NO
+213,204,Direktor Operations Deutschland,2022,2025,3,2,1,1,NA
+213,215,Leiter Produktion ,2021,2021,1,1,1,1,NA
+213,216,Technischer Leiter,2015,2021,6,1,1,1,NA
+213,568,Student,1991,1996,5,1,1,2,Dresden
+15,245,Mitglied des Verwaltungsrats,2022,2024,2,1,2,1,Helsinki-FI
+15,3,Mitglied des Verwaltungsrats,2024,2025,1,2,2,1,Kongsberg
+15,361,Chief Financial Officer,2019,2021,2,1,2,1,Ikornnes-NO
+15,362,Chief Financial Officer,2015,2019,4,1,2,1,Hønefoss-NO
+217,204,Director Sales and Business Development ,2022,2025,3,2,2,1,Schrobernhausen
+217,219,Head of Sales and Marketing,2018,2022,4,1,2,1,Schrobernhausen
+217,220,Head of Sales and Marketing Airborne Platforms,2013,2018,5,1,2,1,Schrobernhausen
+217,221,Senior Sales Representative,2010,2013,2,1,2,1,München
+364,3,Deputy chair,2015,2025,10,2,2,1,Kongsberg
+363,3,Chairman,2017,2025,8,2,2,1,Kongsberg
+363,232,Student,NA,NA,NA,1,1,2,Oslo-NO
+364,43,Student,NA,NA,NA,1,1,2,Bergen-NO
+244,365,NA,2001,2001,1,1,1,2,St. Gallen-CH
+366,365,Management,2000,2001,1,1,1,2,St. Gallen-CH
+366,3,Director,2021,2025,4,2,2,1,Kongsberg
+366,43,Student,1996,2000,4,1,1,2,Bergen-NO
+372,9,Chief Executive Officer,2021,2025,4,2,2,1,München
+372,9,Chief Operating Officer,2019,2021,2,1,2,1,Hamburg
+372,144,Präsidiumsmitglied,2021,2025,4,2,1,3,Berlin
+372,373,President,2021,2025,4,2,2,3,Berlin
+372,221,Military Aviator and Officer,1984,1994,10,1,1,1,Deutschland
+372,374,Student,1985,1999,14,1,1,2,Hamburg
+376,6,Finanz-/Vermögensverwaltung,1983,1987,5,1,1,1,Nürnberg
+376,380,Vorsitz,1987,1992,5,1,1,1,Nürnberg
+376,6,"Aufsichtsrat, stv. Vorsitz ",2008,2025,17,2,1,1,Nürnberg
+375,6,"Aufsichtsrat, Vorsitz",NA,2025,NA,2,1,1,Nürnberg
+376,6,Verwaltungsrat,1992,1998,6,1,1,1,Nürnberg
+376,6,Aufsichtsrat,1998,2002,4,1,1,1,Nürnberg
+376,6,"Aufsichtsrat, Vorsitz",2002,2008,6,1,1,1,Nürnberg
+377,6,Aufsichtsrat,NA,2025,NA,2,1,1,Nürnberg
+378,6,Aufsichtsrat,2024,2025,2,2,1,1,Nürnberg
+378,381,Vorstand,2011,2021,10,1,2,1,NA
+378,381,Chief Executive Officer,2008,2011,3,1,2,1,NA
+378,381,Ingenieurwissenschaften,1986,1995,9,1,2,1,NA
+378,381,Leiter der Entwicklung der Automatisierungstechnik,1995,1997,2,1,2,1,NA
+378,381,Management,1997,2008,11,1,2,1,NA
+379,6,Aufsichtsrat,2023,2025,2,2,1,1,Nürnberg
+379,382,Student,NA,NA,NA,1,1,2,NA
+379,383,Student,NA,NA,NA,1,1,2,NA
+384,6,Vorstand,2022,2025,3,2,2,1,NA
+384,6,Senior Vice President HR,2018,2021,3,1,2,1,NA
+384,6,Vice President HR,2013,2018,5,1,2,1,NA
+391,6,"Generalbevollmächtigte, Vorstand",NA,2025,NA,2,2,1,NA
+385,6,Vorstand,NA,2025,NA,2,2,1,NA
+386,6,Vorstand,NA,2025,NA,2,2,1,NA
+387,6,Vorstand,NA,2025,NA,2,2,1,NA
+388,6,Vorstand,NA,2025,NA,2,2,1,NA
+389,6,Vorstand,NA,2025,NA,2,2,1,NA
+390,6,Vorstand,NA,2025,NA,2,2,1,NA
+391,6,"Vorstand, Generalbevollmächtigt",NA,2025,NA,2,2,1,NA
+392,6,"Vorstand, Generalbevollmächtigt",NA,2025,NA,2,2,1,NA
+393,6,"Vorstand, Generalbevollmächtigt",NA,2025,NA,2,2,1,NA
+397,16,NA,NA,NA,NA,1,1,2,NA
+398,16,Luft- und Raumfahrttechnik,NA,NA,NA,1,1,2,NA
+398,16,NA,NA,NA,NA,1,1,2,NA
+399,16,NA,NA,NA,NA,1,1,2,NA
+400,16,NA,NA,NA,NA,1,1,2,NA
+401,16,Vorstand,NA,NA,NA,1,2,1,NA
+16,4,Bereichsleiter,2018,2025,7,2,2,1,NA
+16,4,Vorstand,2023,2025,2,1,2,1,NA
+16,4,Chief Sustainability Officer,2022,2025,3,1,2,1,NA
+222,204,HR Director ,2011,2025,3,2,2,1,Schrobenhausen
+222,224,General Secretary and Head of Special Projects ,2005,2011,6,1,2,1,"Unterschleißheim, Schrobenhausen"
+222,225,Attorney - at - Law and Deputy General Counsel ,2000,2005,5,1,2,1,Unterschleißheim
+222,41,Student,NA,NA,NA,1,1,2,Ravensburg
+222,382,Student,NA,NA,NA,1,1,2,Mannheim
+226,204,Managing Director MBDA Germany,2018,2025,7,2,2,1,Schrobenhausen
+226,9,SVP Corporate Secretary,2015,2016,1,1,2,1,Ottobrunn
+226,566,Student,NA,NA,NA,1,1,2,Siegen
+229,204,Programms Director ,2023,2025,2,2,2,1,Schrobenhausen
+229,231,Geschäftsführer TDW GmbH ,2019,2023,4,1,2,1,Schrobenhausen
+249,7,Executive Director ,2021,2025,4,2,2,1,NA
+249,251,Board Member ,2020,2025,5,2,2,1,FR
+249,252,Senior Advisor Digital Transformation ,2019,2025,6,2,2,1,NA
+249,253,Non Executive Director ,2019,2025,6,2,1,1,NA
+249,254,Managing Director Western Europe,2017,2019,2,1,1,1,FR
+249,255,Vice President Communicatios Sector,2015,2017,2,1,1,1,FR
+249,7,Vice President Strategy and Business Development ,2012,2015,3,1,1,1,NA
+249,257,General Manager Microsoft Services ,2010,2012,2,1,1,1,NA
+249,258,General Manager ,2007,2010,3,1,1,1,NA
+249,259,Director Sales and Business Development ,2003,2007,4,1,1,1,NA
+249,260,Sales Director ,2000,2003,3,1,1,1,NA
+249,261,Marketing Manager,1998,2000,2,1,1,1,NA
+249,262,Business Development Manager ,1995,1998,3,1,1,1,NA
+249,263,Project Manager ,1992,1995,3,1,1,1,NA
+264,7,Board Member ,2020,2025,5,2,2,1,NA
+264,266,Managing Partner ,2018,2025,7,2,2,1,NA
+264,267,"Senior Partner, Private Equity ",2015,2018,5,1,2,1,NA
+264,268,"Board Member, Finance and Investment Comitee",2013,2025,12,2,2,1,NA
+264,269,"Board Member,Finance and Risk Comitte ",2010,2025,15,2,2,1,NA
+264,270,"Board Member, Strategy Comitee",2007,2025,18,2,2,1,NA
+264,271,"Managing Director, Private Banking ",2003,2007,4,1,1,1,NA
+436,9,"Head of Transformation, Corporate Secretary",2021,2025,4,2,2,1,"München, Toulouse-FR"
+436,437,Student,1996,1999,3,1,1,2,Paris-FR
+272,7,Board Member ,2018,2025,7,2,2,1,NA
+272,1,Chairmain of Board ,2019,2025,6,2,2,1,DE
+272,275,CEO Defence and Security Division ,2013,2015,2,1,1,1,DE
+272,9,Chief Operating Officer ,2010,2013,3,1,1,1,DE
+272,277,Head of Military Aircraft Division ,2007,2010,3,1,1,1,DE
+272,278,Executive Vice President Operations ,2005,2007,2,1,1,1,DE
+272,279,Managing Director ,2000,2005,5,1,1,1,DE
+440,441,Student,NA,2018,NA,1,1,2,Halle-Wittenberg
+440,171,Student,2003,2007,4,1,1,2,NA
+440,442,Ausbildung,2000,2003,3,1,1,1,NA
+442,138,Unternehmenszugehörigkeit,,,,,,,NA
+440,5,Aufsichtsrat,2014,2025,11,2,1,1,Düsseldorf
+440,91,Rechtsanwalt,2012,2020,8,1,1,1,Frankfurt am Main
+440,443,Direktor,2020,2025,5,2,1,1,Düsseldorf
+444,5,Aufsichtsrat,2020,2025,5,2,1,1,Düsseldorf
+444,5,"Angestellter, Teamleiter",1986,2006,20,1,1,1,Trittau
+444,5,"Betriebsrat, Gesamtbeirat",2002,2025,23,2,1,1,Trittau
+448,5,Aufsichtsrat,2025,2025,0,2,1,1,Düsseldorf
+448,407,Student,NA,2007,NA,1,1,2,Chemnitz
+446,447,Student,NA,NA,NA,1,1,2,Hamburg
+446,447,Wissenschaftlicher Mitarbeiter ,1999,2005,6,1,1,1,Hamburg
+446,449,Unternehemensentwicklung und Strategie,2005,2008,3,1,1,1,Kiel
+446,451,Bereichsleiter Engineering ,2008,2012,4,1,1,1,Hamburg
+446,452,Vice President Office Technologies,2012,2013,1,1,1,1,Essen
+446,454,Vice President Strategy,2013,2013,1,1,1,1,Essen
+446,455,Chief Operating Officer ,2014,2015,2,1,2,1,Bremen
+446,455,Chief Technology Officer,2014,2015,2,1,2,1,Bremen
+446,455,Geschäftsführer ,2016,2017,1,1,2,1,Bremen
+446,455,Chief Executive Officer ,2017,2018,1,1,2,1,Bremen
+446,445,Chief Executive Officer ,2018,2025,7,2,2,1,Oberndorf am Neckar
+448,450,Fertigungsplaner,2007,2011,4,1,1,1,Regensburg
+448,61,Manager,2011,2014,3,1,1,1,Berlin
+448,5,Betriebsrat,2014,NA,NA,1,1,1,Berlin 
+439,9,Executive Vice President,2022,2025,3,2,2,1,UK
+280,282,Managing Director ,2020,2025,5,2,2,1,NA
+280,283,Head of European Aerospace and Defence Equity Research ,2017,2020,3,1,1,1,NA
+280,284,Senior Aerospace and Defence Equity Analyst,2013,2017,4,1,1,1,NA
+280,285,Aerospace and Defence Equity Analyst ,2010,2013,3,1,1,1,NA
+280,286,Equity Research Analyst ,2007,2010,3,1,1,1,NA
+280,287,Financial Analyst,2005,2007,2,1,1,1,NA
+280,288,"Intern, Finance and Investment ",2004,2005,1,1,1,1,NA
+280,289,Master in Finance ,2002,2004,2,1,1,2,FR
+280,290,Bachelor in Economics ,1999,2002,3,1,1,2,FR
+280,291,Exchange Program in Business Administration ,2001,2002,1,1,1,2,US
+280,35,Exchange Program in Finance ,2000,2001,1,1,1,2,Cranfield-GB
+453,438,Executive Vice President,2018,2021,3,1,2,1,Toulouse-FR
+436,438,Head of People Empowerment,2016,2022,6,1,2,1,Toulouse-FR
+456,5,Aufsichtsrat,2010,2025,15,2,1,1,Düsseldorf
+456,61,"Produktionsmitarbeiter, Mitarbeiter in div. Pos.",1992,2010,18,1,1,1,Neuss
+456,61,Betriebsrat,1994,2025,31,2,1,1,Neuss
+456,5,Konzernbetriebsrat,NA,2025,NA,2,1,1,Düsseldorf
+457,5,Aufsichtsrat,2010,2025,15,2,1,1,Düsseldorf
+457,61,Freiberufliche Mitarbeiter,1990,1998,8,1,1,1,Neuss
+457,61,Leitung in div. Pos.,1998,2023,25,1,1,1,"Berlin, "
+457,460,Mitglied des Ausschusses,2013,2017,4,1,1,1,NA
+457,5,Leitung  ,2023,2025,2,2,1,1,Düsseldorf
+457,461,Mitglied des Rats,2014,2025,11,2,1,1,Berlin 
+457,462,Mitglied des Vorstands ,NA,NA,NA,2,1,1,NA
+463,5,Aufsichtsrat,2015,2025,10,2,1,1,Düsseldorf
+463,464,Ausbildung,1981,1983,3,1,1,1,NA
+463,455,kaufmännische Angestellte,1983,1994,11,1,1,1,NA
+459,171,Student,NA,1996,NA,1,1,2,Bochum
+459,465,Sachbearbeiter,1997,1998,2,1,1,1,Remscheid
+459,468,Leiter Controlling,1999,2001,3,1,1,1,Krefeld
+459,468,Bereichsleiter Controlling & Procurement,2001,2005,3,1,1,1,Krefeld
+459,473,Commercial Finance Manager,2005,2006,1,1,1,1,Wuppertal
+459,473,Commercial Finance Director Europe,2006,2008,2,1,2,1,Wuppertal
+459,455,Executive Director Finance ,2008,2013,5,1,1,1,Bremen
+459,455,Chief Commercial Officer,2013,2019,7,1,2,1,Bremen
+459,214,Chief Financial Officer,2017,2019,3,1,2,1,Flintbek
+459,218,Chief Financial Officer,2020,2022,2,1,2,1,Kiel
+459,445,Finanzvorstand,2023,2025,2,2,2,1,Oberndorf am Neckar
+455,464,Unternehmenszugehörigkeit,,,,,,,NA
+463,455,Betriebsrat,1990,2025,35,2,1,1,NA
+463,5,Konzernbetriebsrat,NA,2025,NA,2,1,1,Düsseldorf
+466,5,Aufsichtsrat,2020,2025,5,2,1,1,Düsseldorf
+466,467,Student,2020,2024,4,1,1,2,Magdeburg
+466,91,"Sekretärin, Zweiter Bevollmächtigter ",2001,2018,18,1,1,1,"Weilheim, Schweinfurt"
+466,470,Elektroniker,1991,2000,9,1,1,1,Preissenberg
+466,196,Aufsichtsrat,2015,2024,10,1,1,1,Herzogenaurach
+466,472,Aufsichtsrat,2020,2024,5,1,1,1,Dettingen
+466,471,Aufsichtsrat,2025,2025,0,2,1,1,Friedrichshafen
+466,67,Aufsichtsrat,2025,2025,0,2,1,1,Leinfelden-Echterdingen
+466,79,Aufsichtsrat,2025,2025,0,2,1,1,Stuttgart
+466,91,Leitung in div. Pos.,2018,2025,7,2,1,1,Stuttgart
+469,9,Executive Vice President,2023,2025,2,2,2,1,München
+474,5,Aufsichtsrat,2014,2025,11,2,1,1,Düsseldorf
+474,475,Ausbildung,1993,1997,4,1,1,1,Sankt Leon-Rot
+474,475,Maschineneinrichter,1997,2006,9,1,1,1,Sankt Leon-Rot
+469,381,Chief Executive Officer,2017,2023,6,1,2,1,München
+475,5,Unternehmenszugehörigkeit,,,,,,,NA
+474,475,Betriebsrat,2006,2025,19,2,1,1,Sankt Leon-Rot
+474,5,Konzernbetriebsrat,2018,2025,7,2,1,1,Düsseldorf
+469,77,Student,NA,NA,NA,1,1,2,Freiburg
+209,9,Executive Vice President,2022,2025,3,2,2,1,München
+209,223,Marketing and Communications,2000,2001,1,1,1,2,FR
+209,438,Senior Vice President,2014,2019,5,1,2,1,Blagnac-FR
+227,9,Senior Vice President,2017,2025,8,2,2,1,Toulouse-FR
+282,7,Senior Executive ,2018,2020,2,1,1,1,NA
+293,294,NA,1995,2000,5,1,1,2,Grenoble-FR
+293,297,Managing Director,2010,2015,5,1,2,1,NA
+293,7,Senior Executive Role,2015,2025,10,2,1,1,NA
+228,9,Head of Sustainability and Communications,2022,2025,3,2,2,1,München
+230,9,Head of Space Systems,2024,2025,1,2,2,1,Toulouse-FR
+230,438,General Manager Airbus operations SAS,2014,2024,10,1,2,1,Toulouse-FR
+250,9,General Counsel,1998,2025,27,2,2,1,München
+250,265,Student,NA,NA,NA,1,1,2,Konstanz
+295,9,Head of Digital,2023,2025,2,2,2,1,Toulouse-FR
+295,438,Head of Customer Digital Solutions,2020,2023,3,1,2,1,Toulouse-FR
+295,46,NA,NA,1992,NA,1,1,2,Palaiseau-FR
+306,9,Chief Operating Officer ,2024,2025,1,2,2,1,"Madrid-ES, München"
+306,438,President of Airbus in Spain,2024,2025,1,2,2,1,Madrid-ES
+298,7,Board Member ,2020,2025,5,2,2,1,NA
+298,301,Executive Vice President Finance and Operations ,2017,2020,3,1,1,1,NA
+298,302,Chied Financial Officer ,2010,2017,7,1,1,1,NA
+298,303,Vice President Finance ,2005,2010,5,1,1,1,NA
+298,299,Student,1985,1990,5,1,1,2,NA
+304,46,Student,1978,1982,5,1,1,2,NA
+304,307,Student,1982,1984,2,1,1,2,NA
+304,7,Board Member ,2016,2025,11,2,2,1,NA
+304,309,Chief Operating Officer,2010,2012,2,1,1,1,NA
+304,310,Executive Vice President ,2008,2010,2,1,1,1,NA
+304,311,Senior Vice President,2005,2008,3,1,1,1,NA
+304,312,Vice President,2002,2005,3,1,1,1,NA
+304,313,Director of Strategy,1999,2002,3,1,1,1,NA
+304,314,General Manager,1996,1999,3,1,1,1,NA
+304,315,Project Manager ,1992,1996,4,1,1,1,NA
+304,316,Engineer ,1984,1992,8,1,1,1,NA
+317,7,Board Member ,2015,2025,10,2,2,1,NA
+317,256,Student,1975,1978,3,1,1,2,NA
+317,318,Student,1978,1981,3,1,1,2,NA
+317,321,Chairman and CEO ,2010,2015,5,1,2,1,NA
+317,322,Executive Vice President ,2005,2010,5,1,1,1,NA
+317,323,Senior Vice President,2000,2005,5,1,1,1,NA
+317,324,Managing Director,1995,2000,5,1,1,1,NA
+325,327,Student,1990,1993,3,1,1,2,NA
+325,328,Student,1993,1995,2,1,1,2,NA
+325,7,Board Member ,2021,2025,4,2,2,1,NA
+325,330,Chief Executive Officer,2019,2021,4,1,2,1,NA
+325,331,Executive Vice President,2015,2019,4,1,1,1,NA
+325,332,Senior Vice President,2010,2015,5,1,1,1,NA
+325,333,Managing Director,2005,2010,5,1,1,1,NA
+334,256,NA,1995,2000,5,1,1,2,NA
+334,7,Senior Executive Role,2020,2025,5,2,1,1,NA
+337,338,NA,1998,2003,5,1,1,2,NA
+337,1,Senior Executive Role,2021,2025,4,2,1,1,NA
+337,340,Vice President,2018,2021,4,1,1,1,NA
+337,341,Director of Strategy ,2015,2018,4,1,1,1,NA
+337,342,Trainee,2005,2005,1,1,1,1,NA
+36,29,Master of Science (M.Sc.): Executive Master of Accounting and Taxation(EMAT),2009,2011,2,1,1,2,NA
+36,41,Bachelor of Arts - BA: Hotel- und Gastronomiemanagement,2004,2007,3,1,1,2,NA
+36,273,Koch mit Zusatzqualifikation Küchen- und Servicemanager,2001,2004,3,1,1,2,NA
+36,347,"Consultant, Auditor & Wirtschaftsprüfer",2007,2012,4,1,1,1,NA
+36,348,Trainee & Consultant,2004,2007,3,1,1,1,NA
+11,28,"Diplom Informatiker, Softwaretechnik",1997,2002,6,1,1,2,Stuttgart
+11,28,Research Staff at the University of Stuttgart,2002,2004,2,1,1,1,NA
+11,1,CEO Thales Deutschland and Country Director Germany,2024,2025,1,2,2,1,NA
+11,2,Head of Division Spectrum Dominance & Airborne Solutions,2022,2023,1,1,1,1,NA
+11,2,Head of Engineering & Supply Chain Management SpectrumDominance & Airborne Solutions,2019,2022,2,1,1,1,NA
+11,2,Head of Strategic Transformation,2016,2019,3,1,1,1,NA
+11,2,various Management Positions,2006,2016,10,1,1,1,NA
+11,9,various Management Positions,2006,2016,10,1,1,1,NA
+11,275,Management Trainee Group DaimlerChrysler and IT System Architect,2004,2006,2,1,1,1,NA
+11,279,various Management Positions,2006,2016,10,1,1,1,NA
+306,35,Student,2000,2001,1,1,1,2,Cranfield-GB
+281,445,Chief Sales Officer,2023,2025,2,2,2,1,Oberndorf am Neckar
+276,8,Chief Space Business Officer,2023,2025,2,2,2,1,Rom-IT
+276,8,Chief Technology and Innovation Officer,2022,2023,1,1,2,1,Rom-IT
+276,275,Student,NA,NA,NA,1,1,2,Mailand-IT
+296,49,Business,1996,2001,5,1,1,2,Rom-IT
+296,300,Health Care Organisation & Management,2002,2002,1,1,1,2,Mailand-IT
+296,305,Junior Consultant,2002,2003,1,1,1,1,Rom-IT
+296,49,Management,2009,2010,2,1,1,2,Rom-IT
+296,8,Deputy Treasurer,2003,2005,2,1,1,1,Rom-IT
+296,8,Internal Controller,2005,2006,1,1,1,1,Rom-IT
+296,8,Manager at Investor Relations,2006,2013,8,1,1,1,Rom-IT
+296,8,Head of Financial Communication,2014,2018,5,1,2,1,Rom-IT
+296,8,Head of Investor Relations,2018,2025,7,2,2,1,Rom-IT
+449,452,Unternehmenszugehörigkeit,,,,,,,NA
+454,452,Unternehmenszugehörigkeit,,,,,,,NA
+455,452,Unternehmenszugehörigkeit,,,,,,,NA
+308,9,Executive Vice-President Finance,2024,2025,1,2,2,1,Madrid-ES
+308,326,Student,NA,NA,NA,1,1,2,Saragossa-ES
+308,335,Student,NA,NA,NA,1,1,2,Rueil-Malmaison-FR
+339,118,Student,1978,1989,11,1,1,2,Frankfurt
+339,344,Rechtsanwalt,1984,1990,7,1,1,1,Frankfurt
+339,345,Syndikus,1990,1996,6,1,1,1,Frankfurt
+339,350,General Counsel,1996,2002,5,1,1,1,Frankfurt
+339,350,Vorstand,2002,2014,12,1,2,1,Frankfurt
+339,351,Senior Advisor,2015,2016,2,1,1,1,Berlin
+339,455,Chief Representative Global legal & Compliance,2016,2017,1,1,2,1,Bremen
+339,455,Aufsichtsratsmitglied,2018,2019,1,1,1,1,Bremen
+339,449,Executive Advisor,2017,2019,2,1,1,1,Kiel
+339,352,Mitglied Verwaltungsrat,2019,2021,2,1,1,1,Bülach
+339,353,Dozent,2005,2025,20,2,1,1,Krems
+339,445,Vorsitzender Aufsichtsrat,2020,2025,5,2,1,1,Oberndorf am Neckar
+350,345,Unternehmenszugehörigkeit,,,,,,,NA
+346,2,Aufsichtsratsmitglied,2017,2025,8,2,2,1,Taufkirchen
+346,381,Executive Vice President,2010,2012,2,1,2,1,Brande
+346,381,Associate Vice President,2002,2005,3,1,2,1,Bocholt
+406,445,Aufsichtsratsmitglied,2020,2025,5,2,1,1,Bremen
+406,118,Rechtswissenschaften,NA,NA,NA,1,1,2,Frankfurt
+406,354,Partnerin,2024,2025,1,2,1,1,Frankfurt
+406,476,Partnerin,2012,2024,12,1,1,1,Frankfurt
+406,477,Associate und Local Partner,1999,2006,7,1,1,1,Frankfurt
+406,477,Partnerin,2006,2012,6,1,1,1,Frakfurt
+478,2,"Aufsichtsratmitglied, Aufsichtsratsvorsitzender",2022,2025,3,2,2,1,Taufkirchen
+478,381,NA,1985,2001,16,1,1,1,Bocholt
+478,480,Student,NA,NA,NA,1,1,2,Marburg
+479,445,Aufsichtsratmitglied,2015,2025,10,2,1,1,Bremen
+479,256,Corporate Governance,2011,2012,1,1,1,2,Fontainebleau
+481,2,Aufsichtsratmitglied,2023,2025,2,2,1,1,Taufkirchen
+481,8,"Senior Vice President, Boardmitglied",NA,2025,NA,2,2,1,Rom-IT
+481,483,Elektroingenieur,NA,NA,NA,1,1,2,Turin
+482,8,Vorsitzender,2023,2025,2,2,1,1,Rom-IT
+484,49,Student,NA,1999,NA,1,1,2,Rom-IT
+484,486,Abgeordneter,2014,2025,11,2,1,1,Rom-IT
+484,487,Vorsitzender,2018,2025,7,2,1,1,Rom-IT
+484,8,Aufsichtsratmitglied,2023,2025,2,2,1,1,Rom-IT
+485,91,Pressesprecher BW,2022,2025,3,2,1,1,Stuttgart
+485,2,Aufsichtsratmitglied,2020,2025,5,2,1,1,Taufkirchen
+485,488,Europäische Wirtschaftsintegration,NA,NA,NA,1,1,2,Leipzig
+343,256,Student,NA,NA,NA,1,1,2,Fontainebleu-FR
+343,349,Student,NA,NA,NA,1,1,2,Genua-IT
+343,489,Senior Partner,1987,2020,33,1,1,1,Chicago-US
+343,491,Managing Partner,2020,2025,5,2,1,1,Mailand-IT
+343,8,Lead Independent Director,2023,2025,2,2,1,1,Rom-IT
+384,490,Director Human Resources,2009,2013,4,1,2,1,NA
+384,492,Head of Human Resources,2005,2009,4,1,2,1,NA
+402,4,Finanz-Ressort,1999,2011,12,1,1,1,München
+402,4,Leiter Investor Relations,2011,2014,3,1,1,1,München
+402,4,Leiter Unternehmensentwicklung und M&A,2014,2014,1,1,1,1,München
+402,4,Leiter Controlling,2015,2015,1,1,1,1,München
+402,4,Leiter Finanzen,2016,2017,1,1,1,1,München
+402,4,Vorstand,2018,2025,7,2,2,1,München
+384,42,Student,1991,1995,4,1,1,2,München
+494,495,Student,NA,NA,NA,1,1,2,Bologna-IT
+494,496,Managing Director,2005,NA,NA,1,1,1,Rom-ITA
+494,8,Aufsichtsratsmitglied,2023,2025,2,2,1,1,Rom-ITA
+403,152,Fabrikplanung und Produktionsstrategie,1997,2004,7,1,1,1,München
+403,152,Leiterin Personalplanung Produktionsressort,2005,NA,NA,1,1,1,München
+403,152,Leiterin Personalpolitik und Personalstrategie,2008,NA,NA,1,1,1,München
+403,152,Prototypenbau und Testbetrieb,2010,NA,NA,1,1,1,Varese-IT
+403,152,Leiterin Industrialisierung und Produktion,2013,2017,4,1,1,1,München
+403,405,Leiterin Corporate Quality Management,2017,NA,NA,1,1,1,München
+403,405,Leiterin Corporate Technology and Innovation,2018,NA,NA,1,2,1,München
+403,497,Aufsichtsrat,2018,2025,7,2,1,1,München
+403,405,Chief Operating Officer,2019,2022,3,1,2,1,München
+403,498,Vorstand,2022,NA,NA,1,2,1,München
+403,4,Vorstand,2023,2025,2,2,2,1,München
+403,44,NA,NA,NA,NA,1,1,2,München
+403,35,Doktorand,NA,NA,NA,1,1,2,Cranfield-GB
+408,409,NA,1984,1988,4,1,1,2,Kempten
+408,4,Chief Program Officer,2013,2025,12,2,2,1,München
+408,4,Senior VP Military Programs,2008,2013,5,1,1,1,München
+408,4,Program Director,2005,2007,2,1,1,1,München
+410,411,Elektroingenieur,1977,1982,5,1,1,1,Royal Oak-US
+410,412,Geschäftsführer,1982,2000,18,1,2,1,Augsburg
+410,413,Vorstandsvorsitzender,2000,2007,7,1,2,1,Köln
+385,499,Student,2008,2009,1,1,1,2,St. Gallen-CH
+385,397,Student,2001,2003,2,1,1,2,Aachen
+385,500,Head of quality management and optical measurement technology,1998,2003,5,1,1,1,Aachen
+385,502,Manager,2003,2004,1,1,1,1,NA
+385,502,Operations Manager,2004,2006,2,1,1,1,NA
+385,502,Head of strategic projects,2007,2008,2,1,1,1,NA
+385,506,Manager,2008,2011,2,1,1,1,NA
+385,506,Managing Director,2011,2012,1,1,1,1,NA
+385,508,Managing Director,2013,2016,3,1,1,1,NA
+385,508,Managing Director,2015,2016,1,1,1,1,Shanghai-CN
+385,257,Vorstand,2019,2025,6,2,2,1,NA
+385,510,Deputy Chairman of the Advisory Board,2020,2025,5,2,2,1,NA
+385,6,Member of the Division Board,2017,2018,1,1,2,1,NA
+385,6,President of the Division Board,2018,2025,7,2,2,1,NA
+385,6,Member of the Executive Board,2018,2025,7,2,2,1,NA
+410,414,Vorstandsvorsitzender,2007,2021,14,1,2,1,Frankfurt am Main
+410,4,Aufsichtsrat,2022,2026,4,2,1,1,München
+415,4,Aufsichtrat,1980,2028,45,2,1,1,München
+415,4,Freigestellter Betriebsrat,2002,2025,23,2,1,1,München
+415,4,Konzernbetriebsrat,2004,2025,21,2,1,1,München
+415,4,Betriebsratsvorsitzender,2016,2025,9,2,1,1,München
+415,4,Konzernbetriebsratsvorsitzender,2016,2025,9,2,1,1,München
+416,417,Banklehre,1986,1988,2,1,1,2,München
+416,169,NA,1988,1994,6,1,1,2,München
+416,509,Projektleiterin,1994,1996,2,1,1,2,München
+416,418,Projektverantwortliche Electronic Commerce,1996,1997,1,1,1,1,München
+416,419,Senior Consultant,1997,1998,1,1,1,1,München
+416,420,Stellvertretende Geschäftsführerin,1998,2000,2,1,1,1,München
+416,420,Vorstandsvorsitzender,2000,2012,12,1,2,1,München
+501,503,Business Administration ,1996,1998,2,1,1,2,New York-US
+501,504,Co-Chair Photography Acquisition Group,2022,2025,3,2,1,1,London-GB
+501,505,Non Executive Chair,2023,2025,2,2,1,1,London-GB
+501,8,Non Executive Director,2023,2025,2,2,1,1,Rom-IT
+501,8,Aufsichtsratsmitglied,2023,2025,2,2,1,1,Rom-IT
+416,511,Geschäftsführende Vorständin,2012,2024,12,1,1,1,München
+416,4,Aufsichtsrat,2018,2027,9,2,1,1,München
+422,397,NA,1989,1997,8,1,1,2,Aachen
+422,423,Entwicklungsingenieur,1998,1999,1,1,1,1,Mannheim
+422,112,Projektingenieur Sales,1999,2001,2,1,1,1,Hamburg
+422,112,Director Sales Asia-Pacific,2001,2005,4,1,1,1,SG
+422,112,Vice President Marketing,2005,2006,1,1,1,1,Hamburg
+422,112,Geschäftsbereichsleiter Component,2007,2011,4,1,1,1,Hamburg
+422,112,Geschäftsbereichsleiter Triebwerke,2011,2012,1,1,1,1,Hamburg
+422,112,Vorstand,2012,2015,3,1,2,1,Hamburg
+422,112,Vorstandsvorsitzender,2015,2022,7,1,2,1,Hamburg
+507,8,Aufsichtsratsmitglied,2023,2025,2,2,1,1,Rom-IT
+507,8,Director,2023,2025,2,2,1,1,Rom-IT
+422,425,Vorstandsvorsitzender,2023,2025,2,2,2,1,München
+422,4,Aufsichtsrat,2024,2028,4,2,1,1,München
+428,4,Zeitmitarbeiter,1998,1999,1,1,1,1,Hannover
+428,4,Airfoil Befund,1999,2025,26,2,1,1,Hannover
+428,4,Betriebsrat,2010,2025,15,2,1,1,Hannover
+428,4,Betriebsratsvorsitzender,2018,2025,7,2,1,1,Hannover
+428,4,Stellv. Konzernbetriebsratsvorsitzender,2022,2025,3,2,1,1,Hannover
+428,4,Aufsichtsrat,2023,2028,5,2,1,1,München
+429,77,NA,2003,2008,5,1,1,2,Freiburg
+429,512,NA,2003,2008,5,1,1,2,Basel-CH
+429,458,NA,2011,2013,2,1,NA,1,München
+429,91,NA,2013,2025,12,2,NA,1,München
+429,91,Mitglied der Geschäftsführung,2022,2025,3,2,2,1,München
+429,4,Aufsichtsrat,2022,2028,6,2,1,1,München
+430,44,NA,1987,1999,12,1,1,2,München
+430,513,NA,1987,1999,12,1,1,2,Nürnberg
+430,514,Doktorand,1987,1999,12,1,1,2,Braunschweig
+386,6,Bereichsvorstand,2016,2021,5,1,2,1,NA
+386,6,Chief Executive Officer,2021,2025,4,2,2,1,NA
+387,6,Vorstand,2020,2025,5,2,2,1,NA
+388,6,Chief Executive Officer,2019,2025,6,2,2,1,NA
+430,4,Teamleitung Produktion Beschichtungstechnik,1998,2001,3,1,1,1,München
+430,4,Teamleitung Produktion Serienprüfstände,2001,2007,6,1,1,1,München
+430,330,Leiter Produktion ,2008,2010,2,1,1,1,Madrid
+430,4,Gesamtprojektleitung Werkstoffindustrialisierung,2011,2015,4,1,1,1,München
+430,4,Aufsichtsrat,2023,2028,5,2,1,1,München
+431,515,Ausbildung,1980,1982,2,1,1,2,München
+431,4,Chemotechnikerin,1983,2002,19,1,1,1,München
+431,4,betriebswirtschaftliche Sachbearbeiterin,2002,2006,4,1,1,1,München
+431,4,Programmkauffrau,2006,2016,10,1,1,1,München
+431,4,Aufsichtsrat,2018,2025,7,2,1,1,München
+432,517,NA,1986,1991,5,1,1,2,Hannover
+432,9,Leiter Produktionslogistik,1991,NA,NA,1,1,1,München
+388,6,Chief Procurement Officer,2011,2017,6,1,2,1,NA
+388,6,Vorstand Diehl Stiftung,2019,2025,6,2,2,1,NA
+388,6,Bereichsvorstand,2015,2019,4,1,2,1,NA
+388,6,Chief Procurement Officer,2017,2019,3,1,2,1,NA
+516,2,Aufsichtsratsmitglied,2020,2025,5,2,1,1,Taufkirchen
+432,4,Leiter Center Turbinenschaufeln,1997,2025,28,1,1,1,München
+516,9,NA,2006,2017,11,1,NA,1,NA
+432,9,Werk- und Standortleiter,2002,NA,NA,1,1,1,Bremen
+432,4,Vorstand Technik,2006,2017,11,1,1,1,München
+432,4,Aufsichtsrat,2021,2025,4,2,1,1,München
+433,518,NA,2008,2013,5,1,1,2,Gießen
+433,519,Rechtsschutzsekretärin,2016,2022,6,1,1,1,NA
+433,91,Gewerkschaftssekretärin,2022,2025,3,2,1,1,NA
+433,4,Aufsichtsrat,2023,2028,5,2,1,1,München
+520,2,Aufsichtsratsmitglied,2023,20,3,2,1,1,Taufkirchen
+520,59,Board Member,2017,2022,5,1,2,1,Wolfsburg
+434,521,NA,1987,1991,4,1,1,2,Sigmaringen
+520,117,Aufsichtsratsmitglied,2017,2022,5,1,1,1,Ingolstadt
+520,56,Aufsichtsratsmitglied,2018,2021,3,1,1,1,Stuttgart
+520,152,Head of Corporate Audit Financial Services,2008,2011,3,1,2,1,München
+520,441,"Mathematics, IT and Statistics in Business",1985,1989,4,1,1,2,Halle
+525,2,Aufsichtsratsmitglied,2020,2025,5,2,1,1,Taufkirchen
+389,523,Geschäftsführer,1994,1998,4,1,1,1,NA
+389,9,Development Engineer,1999,2001,2,1,2,1,Bremen
+389,9,Team Leader,2001,2003,2,1,2,1,Hamburg
+389,9,Route 06 Customisation Domain PMO,2003,2004,1,1,2,1,Hamburg
+389,9,Senior Manager,2004,2006,2,1,2,1,Hamburg
+389,541,Vorstandsvorsitzender,2011,2017,6,1,2,1,Buxtehude
+389,542,Leader Working Group Cabin & Cargo,2011,2019,8,1,1,3,Berlin
+389,9,Senior Manager,2006,2007,1,1,2,1,NA
+389,9,Vice President,2007,2008,1,1,2,1,NA
+389,9,Vice President Management,2008,2011,3,1,2,1,NA
+389,9,Senior Vice President  Engineering,2011,2017,6,1,2,1,NA
+389,9,Senior Vice President Procurement,2017,2022,5,1,2,1,NA
+389,6,Chief Executive Officer,2022,2025,3,2,2,1,NA
+389,28,Student,1994,1997,4,1,1,2,Stuttgart
+389,28,Student,1988,1994,6,1,1,2,Stuttgart
+389,544,MBA,2001,2003,2,1,1,2,Elmshorn
+434,522,Gesamtproduktionsleitung,1991,1992,1,1,1,1,München
+434,522,Leitung der Produktionsentwicklung,1992,1993,1,1,1,1,München
+434,169,NA,1993,1997,4,1,1,1,München
+434,524,Senior Consultant und Bereichsleiterin,1997,2003,6,1,1,1,NA
+525,9,Aufsichtsratsmitglied,NA,NA,NA,1,1,1,NA
+526,91,Vorstandsverwaltung,2012,2025,13,2,2,1,NA
+434,44,Forschungsbereichsleiterin,1997,2003,3,1,1,1,München
+526,2,Aufsichtsratsmitglied,2020,2025,5,2,1,1,Taufkirchen
+434,527,Privatdozentin,2003,2004,1,1,1,1,Kassel
+434,44,Privatdozentin,2003,2004,1,1,1,1,München
+434,527,Lehrstuhl,2004,2012,8,1,1,1,Kassel
+526,169,Student,NA,NA,NA,1,1,2,München
+434,500,Institutsleiterin,2007,2025,18,1,1,1,Karlsruhe
+434,528,Lehrstuhl,2013,2025,12,1,1,1,Karlsruhe
+434,4,Aufsichtsrat ,2013,2025,12,1,1,1,München
+435,243,NA,NA,1991,NA,1,1,2,Jena
+435,529,Trainee,1991,NA,NA,1,1,1,Frankfurt am Main
+435,529,Aktienanalystin,1993,NA,NA,1,1,1,Frankfurt am Main
+435,529,OTC-Derivate,1995,NA,NA,1,1,1,Frankfurt am Main
+435,531,Teamleiterin Risikomanagement und Finanzplanung,1995,NA,NA,1,1,1,Bonn
+530,8,Aufsichtsratsmitglied,2023,2025,2,2,2,1,Rom-IT
+530,533,Student ,NA,NA,NA,1,1,2,Mailand
+435,532,Abteilungsleiterin Finanzmanagement,2000,NA,NA,1,1,1,Düsseldorf
+435,532,Geschäftsführerin Metro Finance,2000,NA,NA,1,1,1,Venlo-NL
+435,534,Leiterin des Zentralbereiches Finanzen,2006,NA,NA,1,1,1,Essen
+435,535,Leiterin des Zentralbereiches Finanzen,2007,NA,NA,1,1,1,Essen
+435,535,Finanzvorständin,2013,2023,10,1,1,1,Essen
+435,4,Aufsichtsrat,2023,2027,4,1,1,1,München
+394,452,Vorstand ,2023,2025,2,2,2,1,Duisburg
+394,536,Ausbildung,1984,1987,3,1,1,2,Mannheim
+394,537,NA,1998,2000,2,1,1,2,Toronto-CA
+394,538,NA,1998,2000,2,1,1,2,Erftstadt
+394,539,NA,1998,2000,2,1,1,2,Linz
+394,540,NA,1998,2000,2,1,1,2,Shanghai-CN
+394,381,Top Management Program,2002,2003,1,1,2,1,München
+394,543,Controller für Produktion,1987,1991,4,1,1,1,Babenhausen
+394,543,Chief Financial Officer VDO Instrumentos,1991,1995,4,1,2,1,Rubi-ES
+394,543,Chief Financial Officer Instruments,1995,2001,6,1,2,1,Babenhausen
+394,381,Chief Financial Officer Interior & Infotainment,2001,2003,2,1,2,1,Babenhausen
+394,381,Chief Financial Officer Low Voltage Controls & Distribution,2004,2007,3,1,2,1,Nürnberg
+394,381,Chief Financial Officer Industry Automation Division,2008,2013,5,1,2,1,Nürnberg
+394,381,Chief Financial Officer Industry Sector,2013,2014,1,1,2,1,Erlangen
+394,381,Chief Financial Officer Digital Factory,2014,2017,3,1,2,1,Nürnberg
+394,381,Chief Financial Officer,2017,2018,1,1,2,1,Zamudio-ES
+394,381,Präsident und CEO,2018,2022,4,1,2,1,Tres Cantos-ES
+394,545,Chief Executive Officer ,2022,2023,1,1,2,1,Maintal
+395,171,NA,NA,NA,NA,1,1,2,Bochum
+395,171,Doktorand,NA,NA,NA,1,1,2,Bochum
+395,171,Wissenschaftlicher Mitarbeiter,1997,2003,6,1,1,1,Bochum
+395,452,Mergers & Acquisitions,2003,2008,5,1,1,1,Duisburg
+395,452,Chief Financial Officer,2008,2009,1,1,2,1,Duisburg
+395,452,Leiter Mergers & Acquisitions,2009,2020,11,1,2,1,Duisburg
+395,452,Chief Executive Officer ,2020,NA,NA,NA,2,1,Duisburg
+395,452,Vorstand,2024,NA,NA,2,2,1,Duisburg
+395,452,Chief Executive Officer Automotive Technology,2024,NA,NA,2,2,1,Duisburg
+396,546,NA,NA,NA,NA,1,1,2,Gent-BE
+396,547,NA,NA,NA,NA,1,1,2,Leuven-BE
+390,551,Student,1995,2000,5,1,1,2,NA
+390,56,Praktikum,1991,1994,3,1,1,2,Stuttgart
+390,72,Corporate Planning,2000,2002,2,1,2,1,"Luedenscheid, NA"
+390,72,Manager Internatiol Purchasing,2002,2005,3,1,2,1,"Luedenscheid, NA"
+390,72,Chief Executive Officer and President,2005,2010,5,1,2,1,Sao Paulo-BR
+390,72,Vice President Global Sales,2010,2017,7,1,2,1,"Luedenscheid, NA"
+390,72,President and Chief Executive Officer,2018,2020,2,1,2,1,"Luedenscheid, NA"
+390,6,Chief Executive Officer,2020,2025,5,2,2,1,NA
+396,452,Vertriebsleitung,1999,2002,3,1,1,1,Duisburg
+396,452,Chief Executive Officer Christon,2002,2012,10,1,2,1,Duisburg
+396,452,Chief Executive Officer Unit Materials ,2012,2016,4,1,2,1,Duisburg
+396,452,Chief Executive Officer Operating Unit Materials Germany,2016,NA,NA,NA,2,1,Duisburg
+396,452,Chief Executive Officer Western Europe/Asia Pacific,2018,NA,NA,NA,2,1,Duisburg
+396,452,Chief Transformation Officer,2019,2023,4,1,2,1,Duisburg
+396,452,Vorstand,2024,2025,1,2,2,1,Duisburg
+396,452,Chief Executive Officer ,2024,2025,1,2,2,1,Duisburg
+426,186,NA,NA,NA,NA,1,1,2,Köln
+426,548,Doktorand,NA,NA,NA,1,1,2,Oestrich-Winkel
+426,489,Senior Associate / Engagement Manager,1997,2001,4,1,1,1,NA
+426,549,Senior Associate,2001,2002,1,1,1,1,NA
+426,381,Project Manager Corporate Finance,2002,2005,3,1,1,1,NA
+426,381,"Head of Planning, Accounting & Controlling",2005,2007,2,1,1,1,NA
+426,381,"Head of Planning & Controlling, Services",2007,2008,1,1,1,1,NA
+426,381,Chief Financial Officer,2008,2010,2,1,2,1,NA
+426,81,Chief Financial Officer Deutschland,2010,2011,1,1,2,1,NA
+426,81,Chief Financial Officer Zentraleuropa,2011,2013,2,1,2,1,NA
+426,81,Group Executive Vice President Finance & Controlling,2013,2016,3,1,2,1,NA
+426,401,Chief Financial Officer,2016,2024,8,1,2,1,NA
+426,452,Vorstand,2024,2025,1,2,2,1,Duisburg
+427,550,Wissenschaftlicher Mitarbeiter ,1988,1989,1,1,1,1,Erlangen
+427,550,Wissenschaftlicher Assistent,1989,1992,3,1,1,1,Erlangen
+427,381,Bereich Medizinische Technik,1992,1999,7,1,1,1,Erlangen
+427,381,Leiter Electromedical Systems Schweden und USA,1999,2003,4,1,1,1,Solna
+427,381,Leiter Bereich Automation and Drives,2003,2006,3,1,1,1,Erlangen
+427,381,Mitglied des Bereichsvorstands Medical Solutions,2006,2008,2,1,2,1,Erlangen
+427,381,Vorstand,2008,2009,1,1,2,1,NA
+427,550,Bestellung zum Honorarprofessor für Mechatronik,2009,NA,NA,1,1,1,Erlangen
+427,101,Aufsichtsrat,2019,2025,6,2,1,1,NA
+427,452,Aufsichtsrat,2019,2025,6,2,1,1,Duisburg
+392,42,Diplom Staatswissenschaftler,1989,1993,4,1,1,2,NA
+392,6,"Generalbevollmächtigter, Vorstand",NA,2025,NA,2,2,1,NA
+393,6,"Generalbevollmächtigter, Vorstand",NA,2025,NA,2,2,1,NA
+552,95,Verwaltungsrat,2024,2025,1,2,2,1,Amsterdam-NL
+552,7,Chief Executive Officer,2015,2020,5,1,2,1,Paris-FR
+552,7,Chief Executive Officer Idemia,2013,2014,1,1,2,1,Paris-FR
+552,7,Chief Executive Officer Sagem,2011,2013,2,1,2,1,Paris-FR
+552,7,Chief Executive Officer Snecma,2006,2011,4,1,2,1,Paris-FR
+552,7,Chief Executive Officer Labinal,2004,2006,2,1,2,1,Toulouse-FR
+552,7,Executive Vice President,2001,2004,3,1,2,1,Paris-FR
+552,7,Managing Director,1999,2001,2,1,2,1,Toulouse-FR
+9,438,Unternehmenszugehörigkeit,,,,,,,NA
+272,274,CFO der Defence & Civil Systems Division,1995,2000,5,1,2,1,NA
+553,95,Verwaltungsrat,2024,2025,1,2,2,1,Amsterdam-NL
+554,381,Controller,1988,1993,4,1,1,1,München
+554,381,Procurement Specialist,1993,1994,2,1,1,1,Austin-US
+554,381,Manager After Sales / Controlling,1995,2000,5,1,1,1,Bocholt
+554,381,General Manager Business Administration Sales,2000,2002,2,1,1,1,Hong Kong-CN
+554,381,"Betriebsleitung, Associate Vice President",2002,2005,3,1,1,1,Bocholt
+554,572,Associate Vice President and Chief Financial Officer,2005,2006,1,1,1,1,München
+554,573,Vice President Finance and Administration,2007,2009,3,1,1,1,Auburn Hills-US
+554,381,"Executive Vice President and CFO, Managing Director",2010,2012,2,1,1,1,Brande-DK
+554,574,Aufsichtsrat,2011,2012,1,1,2,1,NA
+554,575,Vice President and Chief Finance Officer,2012,2016,4,1,2,1,Augsburg
+554,584,"Executive Vice President and CFO, Managing Director",2016,2019,3,1,2,1,Regensburg
+554,583,Vorstand und Chief Financial Officer,2019,2022,3,1,2,1,Nürnberg
+554,585,Aufsichtsrat,2019,2022,2,1,2,1,Regensburg
+554,581,Women in Foreign Trade Network,2015,2025,10,2,2,1,NA
+554,2,Aufsichtsrat,2017,2025,8,2,2,1,NA
+554,586,Aufsichtsrat,2019,2025,5,2,2,1,Luxemburg-LU
+554,587,Vice Vorstandsvorsitzende,2021,2025,3,2,2,1,NA
+554,588,"Vorstand, Finanzen",2022,2025,3,2,2,1,NA
+554,381,Student,1986,1988,2,1,1,2,NA
+560,95,Vorstand,2014,2025,11,2,2,1,Amsterdam-NL
+563,571,NA,1982,1986,4,1,1,2,Breda-NL
+563,582,Command and General Staff College (HMV),1997,1998,1,1,1,2,NA
+561,576,Advanced Professional Studies,2002,2002,1,1,1,2,NA
+561,118,"German Language, Literature and Art ",2008,2010,2,1,1,2,NA
+561,577,Student,1986,1993,8,1,1,2,NA
+561,578,Rechtsanwalt,1995,1998,3,1,1,1,NA
+561,579,Supervisory Board Member,2002,2011,9,1,2,1,NA
+561,580,Partner,1998,2020,22,1,1,1,NA
+561,95,Mitglied des Aufsichtsrats,2021,2025,4,2,2,1,NA
+557,95,Chief Financial Officer,2021,2025,3,2,2,1,Amsterdam-NL
+557,590,Chief Executive Officer Canada LP,2018,2021,3,1,2,1,Canada
+557,438,Chief Financial Officer,2008,2018,10,1,2,1,Amerika
+557,591,MBA,1992,1993,1,1,1,2,Paris-FR
+557,592,Student,1984,1987,3,1,1,2,NA
+563,589,Student,1997,1998,1,1,1,2,Leiden-NL
+562,221,Student,1977,1990,14,1,1,2,NA
+562,95,Geschäftsführung,2015,2025,10,2,2,1,NA
+563,593,NA,1999,2000,1,1,1,1,Paris-FR
+563,594,Master ,2000,2001,1,1,1,1,Paris-FR
+564,592,Ingénierie mécanique,1990,1994,4,1,1,2,NA
+564,601,Ingénieur,1994,2020,26,1,1,1,NA
+564,95,Directeur de l'Ingénierie et de l'Innovatio,2024,2025,1,2,2,1,NA
+559,95,Aufsichtsratmitglied,2023,2025,2,2,2,1,NA
+559,329,Leiter Stab Strategische Steuerung Rüstung,2020,2022,2,1,1,1,Berlin
+559,329,Beauftragter Strategische Steuerung Rüstung,2018,2021,3,1,1,1,Berlin
+559,329,Referatsleiter,2009,2021,12,1,1,1,Berlin
+559,595,Student,1984,1987,3,1,1,2,Bayreuth
+563,1,Director Strategy,2008,2012,4,1,1,1,NA
+563,1,Vizepräsident für Business,2012,2016,4,1,1,1,NA
+563,1,Vizepräsident für Transformation,2016,2019,3,1,1,1,NA
+563,95,Vizepräsident Cooperate Developement,2019,2021,2,1,1,1,NA
+565,602,Civil engineering,1979,1980,1,1,1,2,NA
+563,95,Chief Cooperate Developement,2021,2025,4,2,2,1,Amsterdam-NL
+563,95,SVP und Chief Corporate Development & Integration Officer,2021,2025,4,2,2,1,NA
+424,95,Vorstand,2024,2025,1,2,2,1,Amsterdam-NL
+424,438,Chief Executive Officer,2012,2025,12,2,2,1,NA
+424,438,Senior Vice President,2008,2025,17,2,2,1,NA
+424,596,"Vice President, ATV Program Manager",2004,2008,4,1,1,1,Bremen
+424,596,Director Ground Infrastructure,2002,2004,2,1,1,1,NA
+424,596,Head of Institutional Marketing,2001,2002,1,1,1,1,Velizy-FR
+424,596,Director Satellites,1999,2001,2,1,1,1,Paris-FR
+424,597,Conseiller technique,1995,1997,2,1,1,1,NA
+424,598,Executive Program,2009,2010,1,1,1,2,NA
+424,599,NA,1990,1992,2,1,1,2,NA
+424,600,Relations internationales,1990,1992,2,1,1,2,NA
+424,46,NA,1987,1990,3,1,1,2,NA
+565,603,Civil engineering,1979,1983,5,1,1,2,NA
+565,604,project manager,1986,1996,10,1,1,1,NA
+565,605,Sales director,1998,2001,4,1,1,1,NA
+565,606,Export manager,2000,2014,10,1,1,1,NA
+565,607,Sales manager temporary,2014,2014,1,1,1,1,NA
+565,608,Export manager / operation manager,2015,2025,10,2,1,1,NA
+565,95,Senior Vice President of Sales & Marketing,2012,2025,13,2,2,1,NA
+596,438,Unternehmenszusammengehörigkeit,,,,,,,NA
+613,438,Unternehmenszusammengehörigkeit,,,,,,,NA
+590,438,Unternehmenszusammengehörigkeit,,,,,,,NA
+598,357,Universitätszusammengehörigkeit,,,,,,,NA
+599,589,Universitätszusammengehörigkeit,,,,,,,NA
+421,42,Electrical Engineering,1988,1992,4,1,1,2,München
+421,95,Projekt Manager/ Executive Manager,1997,2008,11,1,1,1,NA
+421,95,Senior Vice President,2009,2021,12,1,2,1,NA
+421,95,Vorstand Digitalisierung,2021,2025,4,2,2,1,Amsterdam
+555,46,NA,1980,1983,3,1,1,2,NA
+555,609,NA,NA,NA,NA,1,1,2,NA
+555,610,Student,1986,1990,4,1,2,1,Ville de Paris-FR
+555,611,Vice President Strategic Analysis,1990,1991,1,1,1,1,Ville de Paris-FR
+555,612,Vice President Industrial & Secretary General,1992,1994,3,1,2,1,Toulouse-FR
+555,611,Vice President ATR Operations,1994,1998,4,1,1,1,Toulouse-FR
+555,612,Chief Executive Officer,1998,2001,3,1,2,1,Toulouse-FR
+555,613,Executive Vice President Commercial Helicopters,2001,2002,1,1,2,1,Marignane-FR
+555,438,Chief Executive Officer,2002,2007,5,1,2,1,Toulouse-FR
+555,204,Chief Executive Officer,2007,2019,12,1,2,1,Paris-FR
+555,438,Executive Vice President Strategy & Public Affairs,2019,2023,4,1,1,1,Toulouse-FR
+555,438,Special Advisor to the Chief Executive Officer,2024,2024,1,1,1,1,Toulouse-FR
+555,610,Vorstandsmitglied,2024,2025,1,2,2,1,Paris-FR
+555,95,Verwaltungsrat,2021,2025,4,2,2,1,Amsterdam-NL
+493,95,Vorstand,2019,2025,6,2,2,1,Amsterdam-NL
+493,614,Vorstandsvorsitzender,2024,2025,1,2,2,1,Darmstadt
+493,614,Vorstand,2009,2024,15,1,2,1,Darmstadt
+493,615,Vorsitz Gesellschaftsrat,2019,2025,6,2,2,1,Fürstenfeldbruck
+493,616,Vorsitz Aufsichtsrat,2019,2025,6,2,2,1,Eberbach
+493,75,Chief Executive Officer and Chairman,2017,2025,8,2,2,1,Stuttgart
+493,614,Vorsitz Aufsichtsrat,2014,2024,10,1,1,1,Darmstadt
+493,614,Aufsichtsratmitglied,2009,2014,5,1,1,1,Darmstadt
+493,617,Aufsichtsratmitglied,2014,2023,9,1,1,1,Helsinki-FI
+493,617,President and Chief Executive Officer,2012,2014,2,1,1,1,Helsinki-FI
+493,617,Aufsichtsratmitglied,2009,2012,3,1,1,1,Helsinki-FI
+493,618,Vorstandsvorsitzender,2016,2019,3,1,1,1,Berlin
+493,44,Hochschulratmitglied TUH,2015,2019,4,1,1,1,München
+493,570,Chief Executive Officer,2014,2017,3,1,2,1,München
+493,619,Vorstandsvorsitzender und Chief Executive Officer,2008,2012,4,1,2,1,Budapest-HU
+493,161,President of the Fine Chemical Divisions,2005,2007,2,1,1,1,NA
+493,161,Managerial and Senior Executives Positions,1987,2005,18,1,1,1,NA
+493,68,Student,1987,1987,1,1,1,2,Ulm
+404,95,"Vorstand, Ammunition",2021,2025,4,2,2,1,Amsterdam-NL
+404,620,Chief Executive Officer Nexter,2019,2025,6,2,2,1,Ville de Paris-FR
+404,622,Directeur Général,2014,2018,5,1,1,1,Paris-FR
+404,620,Directeur Général délégué et directeur commercial,2009,2013,4,1,2,1,NA
+404,620,Directeur de la production,2006,2009,3,1,2,1,Roanne et Bourges-FR
+404,620,Services Clients,2004,2006,2,1,2,1,Saint Chamond-FR
+404,621,Directeur de contrat export,2000,2004,4,1,1,1,ARE
+620,95,Unternehmenszusammengehörigkeit,,,,,,,NA
+621,95,Unternehmenszusammengehörigkeit,,,,,,,NA
+621,620,Unternehmenszusammengehörigkeit,,,,,,,NA
+556,95,Vorstandsmitglied,,,,,,,NA
+558,95,Vorstandsmitglied,NA,NA,NA,2,2,1,NA
+558,623,Maschinenbau,2003,2005,2,1,1,2,Montluçon-FR
+558,528,Maschinenbau,2007,2009,2,1,1,2,Karlsruhe
+558,624,Maschinenbau und Industrialisierung,2005,2009,4,1,1,2,Paris-FR
+558,7,Verfahrenstechniker,2007,2007,1,1,1,1,Montluçon-FR
+558,625,Diplomand,2008,2009,1,1,1,2,Karlsruhe
+558,7,Produktionsmanager,2010,2011,1,1,1,1,Dijon-FR
+558,569,Patentprüfer,2012,2025,13,2,1,1,La Haye-NL
+45,528,Universitätszusammenhang,,,,,,,Karlsruhe
+1,60,Unternehmenszusammengehörigkeit,,,,,,,IND
+121,179,Unternehmenszusammengehörigkeit,,,,,,,
+442,121,Unternehmenszusammengehörigkeit,,,,,,,
+442,179,Unternehmenszusammengehörigkeit,,,,,,,
+475,60,Ehemalige Unternehmenszusammengehörigkeit,,,,,,,
+475,61,Ehemalige Unternehmenszusammengehörigkeit,,,,,,,
+199,60,Unternehmenszusammengehörigkeit,,,,,,,
+199,1,Unternehmenszusammengehörigkeit,,,,,,,
+199,61,Unternehmenszusammengehörigkeit,,,,,,,
+199,475,Unternehmenszusammengehörigkeit,,,,,,,
+475,1,Unternehmenszusammengehörigkeit,,,,,,,
+61,1,Unternehmenszusammengehörigkeit,,,,,,,
+449,452,Unternehmenszusammengehörigkeit,,,,,,,
+449,454,Unternehmenszusammengehörigkeit,,,,,,,
+454,452,Unternehmenszusammengehörigkeit,,,,,,,
+6,58,Unternehmenszusammengehörigkeit,,,,,,,
+67,274,Unternehmenszusammengehörigkeit,,,,,,,
+73,381,Unternehmenszusammengehörigkeit,,,,,,,
+67,79,Unternehmenszusammengehörigkeit,,,,,,,
+67,80,Unternehmenszusammengehörigkeit,,,,,,,
+274,79,Unternehmenszusammengehörigkeit,,,,,,,
+274,80,Unternehmenszusammengehörigkeit,,,,,,,
+79,80,Unternehmenszusammengehörigkeit,,,,,,,
+73,75,Unternehmenszusammengehörigkeit,,,,,,,
+75,381,Ehemalige Unternehmenszugehörigkeit,,,,,,,
+277,9,Ehemalige Unternehmenszugehörigkeit,,,,,,,
+438,9,Unternehmenszusammengehörigkeit,,,,,,,
+590,9,Unternehmenszusammengehörigkeit,,,,,,,
+613,9,Unternehmenszusammengehörigkeit,,,,,,,
+438,590,Unternehmenszusammengehörigkeit,,,,,,,
+613,438,Unternehmenszusammengehörigkeit,,,,,,,
+613,590,Unternehmenszusammengehörigkeit,,,,,,,
+277,278,Unternehmenszusammengehörigkeit,,,,,,,
+277,279,Unternehmenszusammengehörigkeit,,,,,,,
+278,279,Unternehmenszusammengehörigkeit,,,,,,,
+278,9,Ehemalige Unternehmenszugehörigkeit,,,,,,,
+279,9,Ehemalige Unternehmenszugehörigkeit,,,,,,,
+277,438,Ehemalige Unternehmenszugehörigkeit,,,,,,,
+277,590,Ehemalige Unternehmenszugehörigkeit,,,,,,,
+277,613,Ehemalige Unternehmenszugehörigkeit,,,,,,,
+278,438,Ehemalige Unternehmenszugehörigkeit,,,,,,,
+278,590,Ehemalige Unternehmenszugehörigkeit,,,,,,,
+278,613,Ehemalige Unternehmenszugehörigkeit,,,,,,,
+279,438,Ehemalige Unternehmenszugehörigkeit,,,,,,,
+279,590,Ehemalige Unternehmenszugehörigkeit,,,,,,,
+279,613,Ehemalige Unternehmenszugehörigkeit,,,,,,,
+148,188,Ehemalige Unternehmenszugehörigkeit,,,,,,,
+181,449,Unternehmenszusammengehörigkeit,,,,,,,
+181,452,Unternehmenszusammengehörigkeit,,,,,,,
+181,454,Unternehmenszusammengehörigkeit,,,,,,,
+449,452,Unternehmenszusammengehörigkeit,,,,,,,
+449,454,Unternehmenszusammengehörigkeit,,,,,,,
+452,454,Unternehmenszusammengehörigkeit,,,,,,,
+59,124,Tochterunternehmen,,,,,,,
+59,117,Unternehmenszugehörigkeit,,,,,,,
+59,56,Unternehmenszugehörigkeit,,,,,,,
+124,117,Unternehmenszugehörigkeit,,,,,,,
+124,56,Unternehmenszugehörigkeit,,,,,,,
+117,56,Unternehmenszugehörigkeit,,,,,,,
+125,59,Tochterunternehmen,,,,,,,
+125,124,Unternehmenszugehörigkeit,,,,,,,
+125,117,Unternehmenszugehörigkeit,,,,,,,
+125,56,Unternehmenszugehörigkeit,,,,,,,
+138,179,Unternehmenszugehörigkeit,,,,,,,
+138,442,Unternehmenszugehörigkeit,,,,,,,
+138,575,Unternehmenszugehörigkeit,,,,,,,
+179,442,Unternehmenszugehörigkeit,,,,,,,
+179,575,Unternehmenszugehörigkeit,,,,,,,
+442,575,Unternehmenszugehörigkeit,,,,,,,
+115,114,Unternehmenszugehörigkeit,,,,,,,
+146,167,Ehemalige Unternehmmenszugehörigkeit ,,,,,,,
+570,177,Unternehmenszugehörigkeit,,,,,,,
+204,205,Tochtergesellschaft ,,,,,,,
