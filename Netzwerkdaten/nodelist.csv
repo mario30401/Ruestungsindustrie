@@ -1,0 +1,629 @@
+id,name,gender,origin,type,nationality,study,education,revenue
+1,Thales Deutschland GmbH,0,2000,2,DE,NA,NA,18
+2,Hensoldt AG,0,2017,2,DE,NA,NA,2
+3,Kongsberg Gruppen AG,0,1814,2,DE,NA,NA,4
+4,MTU Aero Engines AG,0,1936,2,DE,NA,NA,6
+5,Rheinmetall AG,0,1889,2,DE,NA,NA,7
+6,Diehl Defence GmbH & Co. KG,0,1905,2,DE,NA,NA,4
+7,Safran SA,0,2005,2,DE,NA,NA,23
+8,Leonardo S.p.A.,0,1951,2,IT,NA,NA,15
+9,Airbus Defence and Space GmbH,0,2014,2,DE,NA,NA,12
+10,Christoph Ruffner,1,NA,3,DE,Informatik,2,NA
+11,Axel Schlatter,1,NA,3,DE,"Hotel- und Gastronomiemanagement, Betriebswirtschaftslehre",2,NA
+12,Oliver Dörre,1,NA,3,DE,Informatik,2,NA
+13,Christian Ladurner,1,1977,3,DE,Betriebswirtschaftslehre,2,NA
+14,Geir Håøy,1,1966,3,NO,Ingenieurwesen,2,NA
+15,Mette Toft Bjørgen,2,1976,3,NO,Finanzen,2,NA
+16,Lars Wagner,1,1975,3,DE,"Maschinenbau,Luft- und Raumfahrttechnik",2,NA
+17,Silke Maurer,2,1972,3,DE,Ingenieurwesen,3,NA
+18,René Gansauge,1,1973,3,DE,Wirtschaftsingenieurwesen,2,NA
+19,Klaus Neumann,1,1970,3,DE,Wirtschaftsingenieurwesen,2,NA
+20,Helmut Rauch,1,1965,3,DE,Elektrotechnik,NA,NA
+21,Thomas Bodenmüller,1,NA,3,DE,Betriebswirtschaftslehre,2,NA
+22,Olivier Andriés,1,1962,3,FR,NA,NA,NA
+23,Pascal Bantegnie,1,1986,3,FR,Ingenieurwesen,2,NA
+24,Roberto Cingolani,1,1961,3,IT,Physik,3,NA
+25,Alessandra Genco,2,NA,3,IT,"Betriebswirtschaftslehre,Wirtschaftswissenschaften",2,NA
+26,Thierry Baril,1,1965,3,FR,"Betriebswirtschaftslehre,Personalmanagement",2,NA
+27,Guillaume Faury,1,1968,3,FR,"Physik,Betriebswirtschaftslehre,Luft- und Raumfahrttechnik",2,NA
+28,Universität Stuttgart,0,1967,4,DE,NA,NA,NA
+29,Mannheim Business School,0,2005,4,DE,NA,NA,NA
+30,Führungsakademie der Bundeswehr,0,1957,4,DE,NA,NA,NA
+31,Henley Business School,0,1946,4,GB,NA,NA,NA
+32,Vestfold University College,0,1994,4,NO,NA,NA,NA
+33,University of Melbourne,0,1853,4,AU,NA,NA,NA
+34,Massachusetts Institute of Technology,0,1861,4,US,NA,NA,NA
+35,Cranfield University,0,1946,4,GB,NA,NA,NA
+36,Ecole des Mines,0,1786,4,FR,NA,NA,NA
+37,École nationale supérieure de l'aéronautique et de l'espace,0,2007,4,FR,NA,NA,NA
+38,University of Bari,0,1925,4,IT,NA,NA,NA
+39,Stanford Graduate School of Business,0,1925,4,US,NA,NA,NA
+40,Institut de Gestion Sociale,0,1975,4,FR,NA,NA,NA
+41,Duale Hochschule Baden-Württemberg Ravensburg,0,2009,4,DE,NA,NA,NA
+42,Universität der Bundeswehr München,0,1973,4,DE,NA,NA,NA
+43,Norges Handelshøyskole,0,1936,4,NO,NA,NA,NA
+44,Technische Universität München,0,1868,4,DE,NA,NA,NA
+45,Universität Karlsruhe,0,1825,4,DE,NA,NA,NA
+46,École Polytechnique,0,1794,4,FR,NA,NA,NA
+47,École Supérieur des Techniques Aéronautiques et de Construction Automobile,0,1925,4,FR,NA,NA,NA
+48,Institut des hautes études de défense nationale,0,1936,4,FR,NA,NA,NA
+49,LUISS Guido Carli Universität Rom,0,1966,4,IT,NA,NA,NA
+50,IAE Aix-Marseille Graduate School of Management,0,1955,4,FR,NA,NA,NA
+51,IUT de Villetaneuse,0,1940/1927,4,FR,NA,NA,NA
+52,Armin Papperger,1,1963,3,DE,Maschinenbau,2,NA
+53,Ursula Biernert-Kloß,2,1969,3,DE,Kulturwissenschaften,3,NA
+54,Universität Duisburg,0,1972,4,DE,NA,NA,NA
+55,Universität Passau,0,1973,4,DE,NA,NA,NA
+56,Porsche AG,0,1972,1,DE,NA,NA,NA
+57,DB Cargo AG,0,1999,1,DE,NA,NA,NA
+58,LEONI AG,0,1999,1,DE,NA,NA,NA
+59,Volkswagen AG,0,1960,1,DE,NA,NA,NA
+60,KSPG India,0,NA,1,IN,NA,NA,NA
+61,Pierburg GmbH,0,NA,1,DE,NA,NA,NA
+62,Pierburg Inc,0,NA,1,US,NA,NA,NA
+63,Pierburg US LLC,0,NA,1,US,NA,NA,NA
+64,KPMG AG,0,1987,1,DE,NA,NA,NA
+65,Renk Group AG,0,NA,2,DE,NA,NA,1
+66,Alexander Sagel,0,1971,3,DE,"Materialwissenschaften,Physik",3,NA
+67,Daimler Truck AG,0,NA,1,DE,NA,NA,NA
+68,Universität Ulm,0,NA,4,DE,NA,NA,NA
+69,Technische Universität Berlin,0,NA,4,DE,NA,NA,NA
+70,Anja Mänz-Siebje,2,1971,3,DE,Wirtschaftswissenschaften,NA,NA
+71,Renk GmbH,0,NA,2,DE,NA,NA,NA
+72,Kostal Group,0,NA,1,DE,NA,NA,NA
+73,Siemens Energy,0,NA,1,DE,NA,NA,NA
+74,Bayer,0,NA,1,DE,NA,NA,NA
+75,Exyte,0,NA,1,DE,NA,NA,NA
+76,Pricewaterhouse Coopers,0,NA,1,DE,NA,NA,NA
+77,Universität Freiburg,0,NA,4,CH,NA,NA,NA
+78,Emmerich Schiller,1,1966,3,DE,Wirtschaftsingenieurwesen,3,NA
+79,Mercedes-Benz AG,0,NA,1,DE,NA,NA,NA
+80,Mercedes-AMG AG,0,NA,1,DE,NA,NA,NA
+81,Hilti Group,0,NA,1,DE,NA,NA,NA
+82,Claus von Hermann,1,1974,6,DE,Betriebswirtschaftslehre,NA,NA
+83,Triton Partners,0,NA,1,SE,NA,NA,NA
+84,Court Square Capital Partners,0,NA,1,GB,NA,NA,NA
+85,Credit Suisse,0,NA,1,GB,NA,NA,NA
+86,ESB Business School,0,NA,4,DE,NA,NA,NA
+87,Dublin City University,0,NA,4,IE,NA,NA,NA
+88,Klaus Refle,1,1966,6,DE,NA,NA,NA
+89,Sascha Dudzik,1,1977,6,DE,Rechtswissenschaften,NA,NA
+90,Universität Hamburg,0,NA,4,DE,NA,NA,NA
+91,IG Metall,0,NA,5,DE,NA,NA,NA
+92,Lothar Evers,1,1968,6,DE,Ausbildung,NA,NA
+93,Florian Hohenwarter,1,1976,6,DE,Elektrotechnik,2,NA
+94,Duale Hoschschule Baden-Württemberg,0,NA,4,DE,NA,NA,NA
+95,KNDS Deutschland GmbH & CO. KG,0,NA,2,DE,NA,NA,3
+96,Adela Lieb,2,1976,6,DE,Betriebswirtschaftslehre,2,NA
+97,Universität Augsburg,0,NA,4,DE,NA,NA,NA
+98,Deloitte & Touche GmbH,0,NA,1,DE,NA,NA,NA
+99,Johannes Meier,1,1984,6,DE,Betriebswirtschaftslehre,NA,NA
+100,CFA Institute,0,NA,4,US,NA,NA,NA
+101,Voith GmbH,0,NA,1,DE,NA,NA,NA
+102,Talis Group,0,NA,1,DE,NA,NA,NA
+103,Doreen Nowotne,2,1972,6,DE,Betriebswirtschaftslehre,2,NA
+104,Hochschule für Technik und Wirtschaft Dresden,0,NA,4,DE,NA,NA,NA
+105,International Institute for Management Development,0,NA,4,CH,NA,NA,NA
+106,Arthur Andersen Wirtschaftsprüfungsgesellschaft mbH,0,NA,1,DE,NA,NA,NA
+107,UBS Capital,0,NA,1,DE,NA,NA,NA
+108,BC Partners,0,NA,1,DE,NA,NA,NA
+109,SGB-SMIT Group,0,NA,1,DE,NA,NA,NA
+110,VAT Group,0,NA,1,DE,NA,NA,NA
+111,JENOPTIK AG,0,NA,1,DE,NA,NA,NA
+112,Lufthansa Technik AG,0,NA,1,DE,NA,NA,NA
+113,Franz Haniel & Cie. GmbH,0,NA,1,DE,NA,NA,NA
+114,Brenntag SE,0,NA,1,DE,NA,NA,NA
+115,Kühne Holding AG,0,NA,1,CH,NA,NA,NA
+116,Ferdije Rrecaj,2,1976,6,DE,Ausbildung,NA,NA
+117,AUDI AG,0,NA,1,DE,NA,NA,NA
+118,Goethe Universität Frankfurt am Main,0,NA,4,DE,NA,NA,NA
+119,Mario Sommer,1,1981,6,DE,Produktionstechnik,2,NA
+120,Duale Hochschule Sachsen,0,NA,4,DE,NA,NA,NA
+121,MAN Roland,0,NA,1,DE,NA,NA,NA
+122,Karin Sonnenmoser,2,1969,6,DE,Betriebswirtschaftslehre,2,NA
+123,University of Dayton,0,NA,4,US,NA,NA,NA
+124,AutoVision GmbH,0,NA,1,DE,NA,NA,NA
+125,Volkswagen Sachsen GmbH,0,NA,1,DE,NA,NA,NA
+126,Zumtobel Group AG,0,NA,1,AT,NA,NA,NA
+127,Schweizer Electronic AG,0,NA,1,DE,NA,NA,NA
+128,Vivantes - Netzwerk für Gesundheit GmbH,0,NA,1,DE,NA,NA,NA
+129,Ceconomy AG,0,NA,1,DE,NA,NA,NA
+130,Swiss Steel Group,0,NA,1,CH,NA,NA,NA
+131,INNIO Group,0,NA,1,AT,NA,NA,NA
+132,u-blox,0,NA,1,CH,NA,NA,NA
+133,Klaus Stahlmann,1,1960,6,DE,"Wirtschaftswissenschaften,Elektrotechnik",2,NA
+134,Technische Hochschule Darmstadt,0,NA,4,DE,NA,NA,NA
+135,Carl Schenck AG,0,NA,1,DE,NA,NA,NA
+136,Krupp Fördertechnik,0,NA,1,DE,NA,NA,NA
+137,Allweiler AG,0,NA,1,DE,NA,NA,NA
+138,MAN SE,0,NA,1,DE,NA,NA,NA
+139,Sulzer,0,NA,1,CH,NA,NA,NA
+140,Kelvion Holding GmbH,0,NA,1,DE,NA,NA,NA
+141,Trillium Flow Technologies,0,NA,1,GB,NA,NA,NA
+142,Ullrich Grillo,1,1959,6,DE,Betriebswirtschaftslehre,2,NA
+143,Universität Münster,0,NA,4,DE,NA,NA,NA
+144,Bundesverband der Deutschen Industrie e.V.,0,NA,7,DE,NA,NA,NA
+145,HDI Global SE,0,NA,1,DE,NA,NA,NA
+146,Commerzbank AG,0,NA,1,DE,NA,NA,NA
+147,J. P. Morgan,0,NA,1,GB,NA,NA,NA
+148,E.ON,0,NA,1,DE,NA,NA,NA
+149,Rheinzink,0,NA,1,DE,NA,NA,NA
+150,Grillo-Werke AG,0,NA,1,DE,NA,NA,NA
+151,Klaus Draeger,1,1956,6,DE,Maschinenbau,3,NA
+152,BMW Group,0,NA,1,DE,NA,NA,NA
+153,BMW AG,0,NA,1,DE,NA,NA,NA
+154,Eirik Lie,1,1966,3,NO,Ingenieurwesen,NA,NA
+155,Lisa Edvardsen Haugan,2,1976,3,NO,NA,NA,NA
+156,Universitetet i Sørøst-Norge,0,NA,4,NO,NA,NA,NA
+157,Martin Wien Fjell,1,1980,3,NO,Finanzen,NA,NA
+158,Saori Dubourg,2,1971,6,DE,Betriebswirtschaftslehre,NA,NA
+159,Umoe,0,NA,2,NO,NA,NA,NA
+160,Universität Trier,0,NA,4,DE,NA,NA,NA
+161,BASF,0,NA,1,DE,NA,NA,NA
+162,Greiner AG,0,NA,1,AT,NA,NA,NA
+163,Council of the German Government,0,NA,8,DE,NA,NA,NA
+164,Andreas Georgi,1,1957,6,DE,Wirtschaftsingenieurwesen,3,NA
+165,Even Aas,1,1961,3,NO,Sozialökonomie,2,NA
+166,Bremer Bank,0,NA,1,DE,NA,NA,NA
+167,Dresdner Bank AG,0,NA,1,DE,NA,NA,NA
+168,Bankhaus Reuschel & Co.,0,NA,1,DE,NA,NA,NA
+169,Ludwig-Maximilians-Universität,0,NA,4,DE,NA,NA,NA
+170,Susanne Hannemann,2,1964,6,DE,Wirtschaftswissenschaften,3,NA
+171,Ruhr-Universität Bochum,0,NA,4,DE,NA,NA,NA
+172,Berliner Bank,0,NA,1,DE,NA,NA,NA
+173,Wirtschaftsprüferkammer NRW,0,NA,8,DE,NA,NA,NA
+174,Louise Öfverström,2,1975,6,DE,Betriebswirtschaftslehre,2,NA
+175,Albert-Ludwigs-Universität Freiburg,0,NA,4,DE,NA,NA,NA
+176,Lund University,0,NA,4,SE,NA,NA,NA
+177,Linde Gas Therapeutics GmbH,0,NA,1,DE,NA,NA,NA
+178,LagomWhite GmbH,0,NA,1,DE,NA,NA,NA
+179,MAN Financial International GmbH,0,NA,1,DE,NA,NA,NA
+180,Clariant,0,NA,1,CH,NA,NA,NA
+181,Thyssenkrupp Steel,0,NA,1,DE,NA,NA,NA
+182,Rolls Royce Power Systems AG,0,NA,1,DE,NA,NA,NA
+183,Kowry Energy,0,NA,1,DE,NA,NA,NA
+184,Nemetschek Group,0,NA,1,DE,NA,NA,NA
+185,Marc Tüngler,1,1986,6,DE,Rechtswissenschaften,2,NA
+186,Universität zu Köln,0,NA,4,DE,NA,NA,NA
+187,ALBIS Leasing Gruppe,0,NA,1,DE,NA,NA,NA
+188,innogy SE,0,NA,1,DE,NA,NA,NA
+189,innotec Tss AG,0,NA,1,DE,NA,NA,NA
+190,AdAR - Arbeitskreis deutscher Aufsichtsrat e.V.,0,NA,8,DE,NA,NA,NA
+191,freenet AG,0,NA,1,DE,NA,NA,NA
+192,Deutsche Schutzvereinigung für Wertpapierbesitz e.V.,0,NA,1,DE,NA,NA,NA
+193,Klaus-Günter Vennemann,1,1954,6,DE,NA,NA,NA
+194,Technikerschule Duisburg,0,NA,4,DE,NA,NA,NA
+195,GETRAG GmbH & Cie,0,NA,1,DE,NA,NA,NA
+196,Schaeffler Group,0,NA,1,DE,NA,NA,NA
+197,Siteco Lightning GmbH,0,NA,1,DE,NA,NA,NA
+198,OSRAM,0,NA,1,DE,NA,NA,NA
+199,KSPG AG,0,NA,2,DE,NA,NA,NA
+200,KAMAX Holding GmbH & Co. KG,0,1935,1,DE,NA,NA,NA
+201,Nanogate SE,0,NA,1,CH,NA,NA,NA
+202,MAB Autotech LTD,0,NA,1,DE,NA,NA,NA
+203,Dirk Zimper,1,NA,3,DE,Luft- und Raumfahrttechnik,3,NA
+204,MBDA Deutschland,0,2001,2,DE,NA,NA,NA
+205,Bayern - Chemie (LFK Germany / MBDA Group),0,1957,2,DE,NA,NA,NA
+206,NATO Science & Technology Organization,0,1949,4,US,NA,NA,NA
+207,Deutsches Zentrum für Luft - und Raumfahrt (DLR),0,1969,4,DE,NA,NA,NA
+208,Ulrich Nuding,1,1977,3,DE,Elektrotechnik,3,NA
+209,Marcella Hoffmann,2,NA,3,DE,Betriebswirtschaftslehre,2,NA
+210,IABG,0,1961,1,DE,NA,NA,NA
+211,"BCCN Munich, Ludwig - Maximilian Universität",0,1472,3,DE,NA,NA,NA
+212,"Institut für Medizinische Psychologie, LMU München",0,1472,3,DE,NA,NA,NA
+213,Falk Müller,1,NA,3,DE,Elektrotechnik,2,NA
+214,Hagenuk Marinekommunikation GmbH,0,1995,1,DE,NA,NA,NA
+215,LFK - Lenkflugkörpersysteme GmbH,0,1995,2,DE,NA,NA,NA
+216,FEE Industrieautomation GmbH,0,1982,1,DE,NA,NA,NA
+217,Guido Brendler,1,1967,3,DE,NA,NA,NA
+218,German Naval Yards Kiel GmbH,0,2015,8,DE,NA,NA,NA
+219,NetJets Europe,0,1964,1,US,NA,NA,NA
+220,Ejercito del Aire,0,NA,4,ES,NA,NA,NA
+221,Bundeswehr,0,NA,1,DE,NA,NA,NA
+222,Marc Zizmann,1,1969,3,DE,"Betriebswirtschaftslehre,Rechtswissenschaften",2,NA
+223,NEGOCIA,0,NA,4,FR,NA,NA,NA
+224,LFK - Lenkflugkörpersysteme GmbH,0,1995,2,DE,NA,NA,NA
+225,Rechtsanwaltskanzlei Zizmann,0,NA,1,DE,NA,NA,NA
+226,Thomas Gottschild,1,1969,3,DE,Elektrotechnik,NA,NA
+227,François Lombard,1,NA,3,FR,Betriebswirtschaftslehre,2,NA
+228,Johannes Müller,1,NA,3,DE,Betriebswirtschaftslehre,NA,NA
+229,Thonas Malenke,1,1970,3,DE,Wirtschaftsingenieurwesen,2,NA
+230,Alain Fauré,1,NA,3,FR,Ingenieurwesen,NA,NA
+231,TDW Gesellschaft für verteidigungstechnische Wirksysteme mbH,0,1960,2,DE,NA,NA,NA
+232,Universitetet i Oslo,0,NA,4,NO,NA,NA,NA
+233,Verwaltungs- und Wirtschafts-Akademie München e. V.,0,1922,4,DE,NA,NA,NA
+234,Andøya Space,0,NA,1,NO,NA,NA,NA
+235,Fafo,0,NA,1,NO,NA,NA,NA
+236,Digital Norway,0,NA,1,NO,NA,NA,NA
+237,Maritimt Forum,0,NA,7,NO,NA,NA,NA
+238,Norsk Industri,0,NA,7,NO,NA,NA,NA
+239,Telenor,0,NA,1,NO,NA,NA,NA
+240,Norwegian Ministry of Foreign Affairs,0,NA,8,NO,NA,NA,NA
+241,The Norwegian Confederation of Trade Unions,0,NA,5,NO,NA,NA,NA
+242,Lars Immisch,1,1967,3,DE,Rechtswissenschaften,3,NA
+243,Friedrich-Schiller-Universität Jena,0,NA,4,DE,NA,NA,NA
+244,Iver Christian Olerud,1,1976,3,NO,Wirtschaftswissenschaften,2,NA
+245,Patria,0,NA,2,FI,NA,NA,NA
+246,Kjedehuset AS,0,NA,1,NO,NA,NA,NA
+247,Dipper AS,0,NA,1,NO,NA,NA,NA
+248,Otrum AS,0,NA,1,NO,NA,NA,NA
+249,Helene Auriol Portier,2,1962,3,FR,NA,NA,NA
+250,Andreas Riecker,1,1965,3,DE,Rechtswissenschaften,3,NA
+251,Infosys,0,1981,1,FR,NA,NA,NA
+252,Accor,0,1967,1,FR,NA,NA,NA
+253,Warburg Pincus LLC,0,1966,1,US,NA,NA,NA
+254,Randstad,0,1960,1,NL,NA,NA,NA
+255,ODDO BHF,0,1849,1,DE,NA,NA,NA
+256,INSEAD,0,1957,3,FR,NA,NA,NA
+257,Microsoft,0,1975,1,US,NA,NA,NA
+258,Orange Business Services,0,2006,1,FR,NA,NA,NA
+259,Ipsen,0,1929,1,FR,NA,NA,NA
+260,Faiveley Transport,0,1919,1,FR,NA,NA,NA
+261,Pacte PME,0,2010,1,FR,NA,NA,NA
+262,Dell Technologies,0,1984,1,US,NA,NA,NA
+263,Nortel,0,1895,1,FR,NA,NA,NA
+264,Monique Cohen,2,1956,3,FR,NA,NA,NA
+265,Universität Konstanz,0,NA,4,DE,NA,NA,NA
+266,Seven2,0,2023,1,FR,NA,NA,NA
+267,Hermés,0,1837,1,FR,NA,NA,NA
+268,BNP Parisbas,0,2000,1,FR,NA,NA,NA
+269,JCDecaux,0,1964,1,FR,NA,NA,NA
+270,Autorité des Marchés Financiers (AMF),0,2003,1,FR,NA,NA,NA
+271,Paribas,0,1872,1,FR,NA,NA,NA
+272,Bernhard Gerwert,1,1953,3,DE,NA,NA,NA
+273,Hotel Traube Tonbach,0,NA,1,DE,NA,NA,NA
+274,Daimler AG,0,1926,1,DE,NA,NA,NA
+275,Polytechnische Universität Mailand,0,1863,4,IT,NA,NA,NA
+276,Franco Ongaro,1,NA,3,IT,Ingenieurwesen,NA,NA
+277,EADS Defence & Security,0,2003,2,NA,NA,NA,NA
+278,EADS,0,1999,2,DE,NA,NA,NA
+279,EADS Defence Electronic,0,2003,2,DE,NA,NA,NA
+280,Celine Fornaro,2,NA,3,FR,"Finanzen,Betriebswirtschaftslehre",NA,NA
+281,Marco Geißinger,1,NA,3,DE,NA,NA,NA
+282,Government Shareholding Agency (Agence des participations de l'État - APE),0,2004,1,FR,NA,NA,NA
+283,Air France-KLM,0,2004,1,FR,NA,NA,NA
+284,ENGIE,0,2008,1,FR,NA,NA,NA
+285,Orange,0,1994,1,FR,NA,NA,NA
+286,RATPgroup,0,1948,1,FR,NA,NA,NA
+287,EDF,0,1946,1,FR,NA,NA,NA
+288,"UBS Securities Co., Ltd",0,2006,1,FR,NA,NA,NA
+289,Bank of America Merrill Lynch,0,2009,1,FR,NA,NA,NA
+290,Embraer,0,1969,1,FR,NA,NA,NA
+291,École Nationale de l'Aviation Civile,0,1997,3,FR,NA,NA,NA
+292,Offizierschule der Luftwaffe Bundeswehr,0,1956,8,DE,NA,NA,NA
+293,Ivan Hardouin,1,NA,3,FR,NA,NA,NA
+294,Grenoble School of Management,0,NA,3,FR,NA,NA,NA
+295,Lionel Rouby,1,1974,3,FR,NA,NA,NA
+296,Valeria Ricciotti,2,NA,3,IT,"Gesundheitswesen,Wirtschaftswissenschaften",NA,NA
+297,Sidel,0,NA,1,FR,NA,NA,NA
+298,Fabienne Lecorvaisier,2,1962,3,FR,NA,NA,NA
+299,École Nationale des Ponts et Chaussées,0,NA,3,FR,NA,NA,NA
+300,Katholische Universität Mailand,0,NA,4,IT,NA,NA,NA
+301,Sanofi,0,NA,1,FR,NA,NA,NA
+302,Wendel,0,NA,1,FR,NA,NA,NA
+303,Air Liquide,0,NA,1,FR,NA,NA,NA
+304,Patrick Pelata,1,1955,3,FR,NA,NA,NA
+305,Gemelli-Klinik,0,NA,8,IT,NA,NA,NA
+306,Francisco Javier Sánchez Segura,1,NA,3,ES,Ingenieurwesen,2,NA
+307,École des Hautes Études en Sciences Sociales,0,NA,3,FR,NA,3,NA
+308,Jesús de Miguel Rodriguez,1,NA,3,ES,"Ingenieurwesen,Wirtschaftswissenschaften",2,NA
+309,Académie des technologies,0,NA,4,FR,NA,NA,NA
+310,Vulog,0,NA,1,FR,NA,NA,NA
+311,Orano,0,NA,1,FR,NA,NA,NA
+312,Meta Consulting LLC,0,NA,1,US,NA,NA,NA
+313,Salesforce,0,NA,1,US,NA,NA,NA
+314,Renault-Nissan BV,0,NA,1,NL,NA,NA,NA
+315,Renault,0,NA,1,FR,NA,NA,NA
+316,"Nissan Motor Co., Ltd.",0,NA,1,JP,NA,NA,NA
+317,Robert Peugeot,1,1950,3,FR,NA,NA,NA
+318,École Centrale Paris,0,NA,3,FR,NA,NA,NA
+319,Raketenschule der Luftwaffe,0,1964,8,US,NA,NA,NA
+320,NATO Programming Centre,0,1970,8,BE,NA,NA,NA
+321,Peugeot Invest,0,NA,1,FR,NA,NA,NA
+322,Stellantis,0,NA,1,NL,NA,NA,NA
+323,PSA Peugeot Citroën,0,NA,1,FR,NA,NA,NA
+324,Faurecia,0,NA,1,FR,NA,NA,NA
+325,Laurent Guillot,1,1969,3,FR,NA,NA,NA
+326,Zaragoza University,0,NA,4,ES,NA,NA,NA
+327,École des Ponts ParisTech,0,NA,3,FR,NA,NA,NA
+328,Université Paris I Panthéon-Sorbonne,0,NA,3,FR,NA,NA,NA
+329,Bundesministerium der Verteidigung,0,1955,8,DE,NA,NA,NA
+330,Europrop International GmbH,0,2002,1,DE,NA,NA,NA
+331,Saint-Gobain,0,NA,1,FR,NA,NA,NA
+332,"Cabinet du Ministre de l'Equipement, des Transports et du Logement",0,NA,1,FR,NA,NA,NA
+333,"Ministère de l’Économie, des Finances et de la Souveraineté industrielle et numérique",0,NA,1,FR,NA,NA,NA
+334,Anne-Sophie Aubert,2,1971,3,FR,NA,NA,NA
+335,École Nationale Supérieure du Pétrole et des Moteurs,0,NA,4,FR,NA,NA,NA
+336,Frequentis Defence Inc.,0,1947,2,AT,NA,NA,NA
+337,Anusch Arezki,2,NA,3,DE,NA,3,NA
+338,École Nationale Supérieure de Chimie de Paris (Chimie-ParisTech),0,NA,3,FR,NA,3,NA
+339,Rainer Runte,1,1967,6,DE,Rechtswissenschaften,3,NA
+340,TETEC AG,0,NA,1,DE,NA,NA,NA
+341,CLINACT,0,1996,1,FR,NA,NA,NA
+342,sarastro GmbH,0,NA,1,DE,NA,NA,NA
+343,Giancarlo Ghislanzoni,1,1960,6,IT,"Betriebswirtschaftslehre,Ingenieurwesen",2,NA
+344,Anwaltskanzlei Heyn Zorn Toelle,0,1948,1,DE,NA,NA,NA
+345,Fresenius Group,0,1912,1,DE,NA,NA,NA
+346,Ingrid Jägering,2,1966,6,DE,NA,NA,NA
+347,Deloitte & Touche GmbH,0,NA,1,DE,NA,NA,NA
+348,DEHOGA Baden-Württemberg,0,NA,1,DE,NA,NA,NA
+349,Universität Genua,0,NA,4,IT,NA,NA,NA
+350,Fresenius Medical Care,0,1996,1,DE,NA,NA,NA
+351,MagForce Ag,0,1997,1,DE,NA,NA,NA
+352,Mageba Group,0,1963,1,DE,NA,NA,NA
+353,Donau-Universität Krems,0,NA,4,AT,NA,NA,NA
+354,Oppenhoff,0,NA,1,DE,NA,NA,NA
+355,Hapro Electronics AS,0,NA,1,NO,NA,NA,NA
+356,Christian Karde,1,1968,3,NO,Rechtswissenschaften,2,NA
+357,Harvard Law School,0,NA,4,GB,NA,NA,NA
+358,Universitetet i Tromsø,0,NA,4,NO,NA,NA,NA
+359,Advokatfirmaet Selmer DA,0,NA,1,NO,NA,NA,NA
+360,Max-Planck-Institut Stuttgart,0,NA,8,DE,NA,NA,NA
+361,Ekornes AS,0,NA,1,NO,NA,NA,NA
+362,Viken Skog SA,0,NA,1,NO,NA,NA,NA
+363,Eivind Reiten,1,1954,6,NO,"Ingenieurwesen,Wirtschaftswissenschaften",2,NA
+364,Anne-Grete Strøm-Erichsen,2,1951,6,NO,NA,2,NA
+365,Universität St. Gallen,0,NA,4,CH,NA,NA,NA
+366,Merete Hverven,2,1978,6,NO,Finanzen,2,NA
+367,Università del Salento,0,NA,4,IT,NA,NA,NA
+368,Virginia Commonwealth University,0,NA,4,US,NA,NA,NA
+369,University of Tokyo,0,NA,4,JP,NA,NA,NA
+370,National Nanotechnology Laboratory,0,NA,1,IT,NA,NA,NA
+371,Istituto Italiano di Tecnologia,0,NA,8,IT,NA,NA,NA
+372,Michael Schoellhorn,1,NA,3,DE,Ingenieurwesen,3,NA
+373,Bundesverband der Deutschen Luft- und Raumfahrtindustrie e.V.,0,NA,7,DE,NA,NA,NA
+374,Helmut-Schmidt-Universität,0,NA,4,DE,NA,NA,NA
+375,Markus Diehl,1,NA,6,DE,NA,NA,NA
+376,Werner Diehl,1,1946,6,DE,NA,NA,NA
+377,Konstantin Diehl,1,NA,6,DE,NA,NA,NA
+378,Klaus Helmrich,1,1958,6,DE,NA,2,NA
+379,Frank Felix Werdin,1,1981,6,DE,NA,2,NA
+380,Karl-Diehl-Stiftung,0,1987,8,DE,NA,NA,NA
+381,Siemens AG,0,1847,1,DE,NA,NA,NA
+382,Universität Mannheim,0,1967,4,DE,NA,NA,NA
+383,Essec business school,1,1907,4,FR,NA,NA,NA
+384,Jens Böhlke,1,1968,3,DE,Rechtswissenschaften,2,NA
+385,Christof Bosbach,1,NA,3,DE,"Betriebswirtschaftslehre,Ingenieurwesen",3,NA
+386,Dieter Landgraf,1,NA,3,DE,NA,NA,NA
+387,Jürgen Reimer,1,1970,3,DE,NA,2,NA
+388,Helmut Rauch,1,NA,3,DE,NA,NA,NA
+389,Jörg Schuler,1,NA,3,DE,Ingenieurwesen,3,NA
+390,Carsten Wolff,1,1972,3,DE,Wirtschaftswissenschaften,2,NA
+391,Elisabeth Hauschild,2,NA,3,DE,NA,3,NA
+392,Bernd Joeris,1,1963,3,DE,Rechtswissenschaften,2,NA
+393,Michael Prymelski,1,NA,3,DE,NA,NA,NA
+394,Miguel Ángel López Borrego,1,NA,3,DE,NA,NA,NA
+395,Volkmar Dinstuhl,1,NA,3,DE,NA,3,NA
+396,Ilse Henne,2,NA,3,DE,NA,NA,NA
+397,RWTH Aachen,0,1870,4,DE,NA,NA,NA
+398,Imperial College London,0,1907,4,GB,NA,NA,NA
+399,Massachusetts Institute of Technology,0,1861,4,US,NA,NA,NA
+400,Collège des Ingénieurs,0,1986,4,FR,NA,NA,NA
+401,Schott AG,0,NA,1,DE,NA,NA,NA
+402,Peter Kameritsch,2,1969,3,DE,NA,NA,NA
+403,Silke Maurer,1,1967,3,DE,NA,3,NA
+404,Dominique Guillet,1,1960,6,FR,NA,NA,NA
+405,BSH Home Appliances,0,NA,1,DE,NA,NA,NA
+406,Regina Engelstädter,2,NA,6,DE,Rechtswissenschaften,2,NA
+407,Technische Universität Chemnitz,0,NA,4,DE,NA,NA,NA
+408,Michael Schreyögg,2,1966,3,DE,NA,NA,NA
+409,Hochschule für angewandte Wissenschaften Kempten,0,NA,4,DE,NA,NA,NA
+410,Gordon Riske,2,1957,6,"US, DE",NA,NA,NA
+411,DeVlieg Machine Company,0,NA,1,US,NA,NA,NA
+412,KUKA Roboter GmbH,0,NA,1,DE,NA,NA,NA
+413,Deutz AG,0,NA,1,DE,NA,NA,NA
+414,KION GROUP AG,0,NA,1,DE,NA,NA,NA
+415,Josef Mailer,1,1964,6,DE,NA,NA,NA
+416,Christine Bortenlänger,2,1966,6,DE,NA,3,NA
+417,Bayerische Vereinsbank AG,0,NA,1,DE,NA,NA,NA
+418,Bayerische Landesbank,0,NA,1,DE,NA,NA,NA
+419,Seebauer & Partner,0,NA,1,DE,NA,NA,NA
+420,Bayerische Börse AG,0,NA,1,DE,NA,NA,NA
+421,Mathias Noehl,1,1966,6,DE,Elektrotechnik,NA,NA
+422,Johannes Bussmann,1,1969,6,DE,NA,3,NA
+423,ABB Deutschland AG,0,NA,1,DE,NA,NA,NA
+424,Nicolas Chamussy,1,1967,6,FR,"Ingenieurwesen,Unternehmensführung",2,NA
+425,TÜV SÜD AG,0,NA,1,DE,NA,NA,NA
+426,Jens Schulte,1,1971,3,DE,NA,3,NA
+427,Siegfried Russwurm,1,1963,6,DE,NA,NA,NA
+428,Kai Eisenblätter,1,1974,6,DE,NA,NA,NA
+429,Daniele Frijia,2,1981,6,DE,NA,NA,NA
+430,Marc Haltrich,1,1967,6,DE,NA,3,NA
+431,Anita Heimerl,2,1964,6,DE,Ausbildung,NA,NA
+432,Rainer Martens,1,1953,6,DE,NA,3,NA
+433,Claudia Sowa-Frank,2,1987,6,DE,NA,NA,NA
+434,Marion A. Weissenberger-Eibl,2,1966,6,DE,NA,NA,NA
+435,Ute Wolf,2,1962,6,DE,Politikwissenschaft,3,NA
+436,Penelope Jane Basson,2,NA,3,FR,Kommunikationswissenschaft,1,NA
+437,American University of Paris,0,NA,4,FR,NA,NA,NA
+438,Airbus SE,0,NA,1,FR,NA,NA,NA
+439,Ben Bridge,1,NA,3,GB,NA,NA,NA
+440,Daniel Hay,1,1979,6,DE,Rechtswissenschaften,3,NA
+441,Martin-Luther-Universität Halle-Wittenberg,0,NA,4,DE,NA,NA,NA
+442,MAN Ferrostaal AG,0,NA,1,DE,NA,NA,NA
+443,Hans-Bröckler-Stiftung,0,NA,8,DE,NA,NA,NA
+444,Ralf Bolm,1,1964,6,DE,NA,NA,NA
+445,Heckler & Koch,0,1949,2,DE,NA,NA,0
+446,Jens Bodo Koch,1,1973,3,DE,Maschinenbau,3,NA
+447,Technische Universität Hamburg,0,NA,4,DE,NA,NA,NA
+448,Martin Wolfgang Hoffmann,1,1982,6,DE,Systemtechnik,2,NA
+449,ThyssenKrupp Marine Systems GmbH,0,2005,2,DE,NA,NA,NA
+450,Continental AG,0,NA,1,DE,NA,NA,NA
+451,Blohm + Voss Shipyards GmbH,0,1877,8,DE,NA,NA,NA
+452,ThyssenKrupp AG,0,1999,1,DE,NA,NA,35
+453,Jean-Brice Dumont,1,NA,3,FR,NA,2,NA
+454,ThyssenKrupp Industrial Solutions AG,0,2014,1,DE,NA,NA,NA
+455,Krupp ATLAS ELEKTRONIK GmbH,0,1902,2,DE,NA,NA,NA
+456,Murat Küplemez,1,1964,6,TR,NA,NA,NA
+457,Michael Mielke,1,1964,6,DE,NA,3,NA
+458,IG BCE BWS GmbH,0,2005,1,DE,NA,NA,NA
+459,Andreas Schnautz,1,1967,3,DE,Wirtschaftswissenschaften,2,NA
+460,Deutsche Industrie- und Handelskammer,0,NA,1,DE,NA,NA,NA
+461,Verband der Metall & Elektroindustrie,0,NA,7,DE,NA,NA,NA
+462,Gesellschaft für Produktionsmanagement,0,NA,7,DE,NA,NA,NA
+463,Dagmar Muth,2,1961,6,DE,Ausbildung,NA,NA
+464,Fried. Krupp GmbH,0,NA,1,DE,NA,NA,NA
+465,SAB WABCO Bergische Stahlindustrie,0,1854,8,DE,NA,NA,NA
+466,Barbara Resch,2,1975,6,DE,Betriebswirtschaftslehre,1,NA
+467,Steinbeis Hochschule,0,NA,4,DE,NA,NA,NA
+468,Kerr McGee Pigments GmbH,0,1929,8,US,NA,NA,NA
+469,Karen Florschütz,2,NA,3,DE,Industriewissenschaften,2,
+470,Agfa,0,NA,1,DE,NA,NA,
+471,ZV Group,0,NA,1,DE,NA,NA,
+472,ElringKlinger,0,NA,1,DE,NA,NA,
+473,Avery Dennison,0,1935,1,US,NA,NA,
+474,Sven Schmidt,1,1975,6,DE,Ausbildung,NA,
+475,KS Gleitlager GmbH,0,NA,1,DE,NA,NA,
+476,Paul Hastings LLP,0,1951,1,US,NA,NA,
+477,Baker & McKenzie,0,1949,1,US,NA,NA,
+478,Reiner Winkler,1,1961,6,DE,Betriebswirtschaftslehre,NA,
+479,Nicolaus Bocklandt,1,1957,6,BE,NA,NA,
+480,Philips-Universität,0,NA,4,DE,NA,NA,
+481,Giuseppe Panizzardi,1,NA,6,IT,NA,NA,
+482,Stefano Pontecorvo,1,1957,6,IT,NA,NA,
+483,Politecnico di Torino,0,NA,4,IT,NA,NA,
+484,Trifone Altieri,1,1975,6,IT,Politikwissenschaft,NA,
+485,Julia Wahl,2,NA,6,DE,NA,2,
+486,Camera dei Deputatti,0,NA,8,IT,NA,NA,
+487,INVIMIT SGR SpA,0,2013,8,IT,NA,NA,
+488,Universität Leipzig,0,NA,4,DE,NA,NA,
+489,McKinsey & Company,0,1926,1,US,NA,NA,
+490,JUNGHANS Defence,0,1999,1,DE,NA,NA,
+491,GHISLANZONI Advice & Investments,0,2019,1,IT,NA,NA,
+492,Deutsche Mechatronics,0,1947,1,DE,NA,NA,
+493,Wolfgang Büchele,1,1959,3,DE,Chemie,3,
+494,Enrica Giorgetti,2,1956,6,IT,Rechtswissenschaften,2,
+495,Universität Bologna,0,NA,4,IT,NA,NA,
+496,Verband der Arzneimittelindustrie,0,1978,7,IT,NA,NA,
+497,Bilfinger SE,0,1880,1,DE,NA,NA,
+498,Webasto SE,0,1901,1,DE,NA,NA,
+499,SMP Management Programm St. Gallen,0,1968,4,CH,NA,NA,
+500,Fraunhofer IPT,0,1980,1,DE,NA,NA,
+501,Dominique Levy,1,1969,6,IT,Betriebswirtschaftslehre,2,
+502,SIG Combibloc,0,1953,1,CH,NA,NA,
+503,Columbia Business School,0,NA,4,US,NA,NA,
+504,Victoria and Albert Museum,0,1852,8,GB,NA,NA,
+505,CDAM (UK) Limited,0,2006,1,GB,NA,NA,
+506,ifm,0,1969,1,DE,NA,NA,
+507,Christina Manara,2,1978,6,IT,NA,NA,
+508,Rotodecor,0,2019,1,DE,NA,NA,
+509,Deutsche Forschungsgemeinschaft,0,1951,1,DE,NA,NA,
+510,mioty alliance,0,NA,1,DE,NA,NA,
+511,Deutsches Aktieninstitut e.V.,0,1953,5,DE,NA,NA,
+512,Universität Basel,0,1460,4,CH,NA,NA,
+513,Friedrich-Alexander-Universität,0,1743,4,DE,NA,NA,
+514,Technische Universiät Braunschweig,0,1745,4,DE,NA,NA,
+515,Chemieschule Dr. Erwin Elhardt,0,NA,4,DE,NA,NA,
+516,Marion Koch,2,NA,6,DE,NA,NA,
+517,Universität Hannover,0,1931,4,DE,NA,NA,
+518,Justus-Liebig-Universität,0,1607,4,DE,NA,NA,
+519,DGB Rechtsschutz GmbH,0,1998,1,DE,NA,NA,
+520,Hiltrud Werner,2,NA,6,DE,NA,2,
+521,Fachhochschule für Technik,0,NA,4,DE,NA,NA,
+522,ESCADA AG,0,1978,1,DE,NA,NA,
+523,Jörg Schuler GmbH,0,1994,1,DE,NA,NA,
+524,TCW Transfer-Centrum GmbH & Co. KG,0,NA,1,DE,NA,NA,
+525,Armin Maier-Junker,1,NA,6,DE,NA,NA,
+526,Jürgen Bühl,1,NA,6,DE,"Politikwissenschaft,Kommunikationswissenschaft",2,
+527,Universität Kassel,0,1971,4,DE,NA,NA,
+528,Karlsruher Institut für Technologie,0,1825,1,DE,NA,NA,
+529,Deutsche Bank AG,0,1870,1,DE,NA,NA,
+530,Marcello Sala,1,1968,6,IT,NA,NA,
+531,Deutsche Telekom AG,0,1995,1,DE,NA,NA,
+532,Metro AG,0,2017,1,DE,NA,NA,
+533,Università Cattolica del Sacro Cuore,0,NA,4,IT,NA,NA,
+534,RAG Aktiengesellschaft,0,1968,1,DE,NA,NA,
+535,Evonik Industries AG,0,2007,1,DE,NA,NA,
+536,Berufsakademie Mannheim,0,1974,4,DE,NA,NA,
+537,Universität Toronto,0,1827,4,CA,NA,NA,
+538,Universität Erftstadt,0,NA,4,DE,NA,NA,
+539,Universität Linz,0,1966,4,AT,NA,NA,
+540,Universität Shanghai,0,1996,4,CN,NA,NA,
+541,KID-Systeme GmbH,0,1985,1,DE,NA,NA,
+542,BDLI,0,1951,7,DE,NA,NA,
+543,VDO,0,1929,1,DE,NA,NA,
+544,Nordakademie Elmshorn,0,1992,4,DE,NA,NA,
+545,Norma Group SE,0,1896,1,DE,NA,NA,
+546,Universität Gent,0,1817,4,BE,NA,NA,
+547,Universität Leuven,0,1425,4,BE,NA,NA,
+548,EBS Universität für Wirtschaft und Recht,0,1971,4,DE,NA,NA,
+549,"Goldman, Sachs & Co. oHG",0,1869,1,US,NA,NA,
+550,Universität Erlangen-Nürnberg,0,1743,4,DE,NA,NA,
+551,Universität Witten/Herdecke,0,1982,4,DE,NA,NA,NA
+552,Philippe Petitcolin,1,1952,3,FR,NA,NA,NA
+553,Jürgen Cammann,1,NA,3,DE,NA,3,NA
+554,Ingrid Jaegering,2,1967,3,DE,Betriebswirtschaftslehre,NA,NA
+555,Antoine Bouvier,1,1959,3,FR,Betriebswirtschaftslehre,NA,NA
+556,Felix Bode,1,1971,3,DE,NA,NA,NA
+557,Philippe Balducchi,1,1964,3,FR,"Ingenieurwesen,Verwaltungswissenschaft",2,NA
+558,Alexandre Lahousse,1,1976,3,FR,Maschinenbau,NA,NA
+559,Werner Frank,1,NA,3,DE,Wirtschaftswissenschaften,2,NA
+560,Pierre Jeannin,1,NA,3,FR,NA,NA,NA
+561,Nick Surber,1,1967,6,NL,Rechtswissenschaften,NA,NA
+562,Ralf Ketzel,1,1959,6,DE,"Maschinenbau,Betriebswirtschaftslehre",2,NA
+563,Marcel Grisnigt,1,1964,6,NL,Verwaltungswissenschaft,2,NA
+564,Christophe Ramaen,1,1969,6,FR,Ingenieurwesen,NA,NA
+565,Stefan Fontanari,1,NA,6,FR,Ingenieurwesen,NA,NA
+566,Universität Siegen,0,NA,4,DE,NA,NA,NA
+567,Kongsberg College of Engineering,0,NA,4,NO,NA,NA,NA
+568,Technische Universität Dresden,0,NA,4,DE,NA,NA,NA
+569,Europäisches Patentamt,0,1977,1,DE,NA,NA,NA
+570,Linde AG,0,1879,1,DE,NA,NA,
+571,Koninklijke Militaire Academie,0,1828,4,NL,NA,NA,
+572,BenQ Corporation,0,1984,1,TW,NA,NA,
+573,Brose Group,0,1906,1,DE,NA,NA,
+574,A2SEA A/S,0,2000,1,DK,NA,NA,
+575,MAN Diesel & Turbo,0,2010,1,DE,NA,NA,
+576,Grotius Academy - Mergers & Acquisitions,0,NA,4,NL,NA,NA,
+577,Universiteit Leiden,0,NA,4,NL,NA,NA,
+578,Van der Steenhoven Kolle & Gilhuis Advocaten,0,NA,1,NL,NA,1,
+579,Nederlands Fotomuseum,0,NA,8,NL,NA,NA,
+580,BarentsKrans N.V.,0,NA,1,NL,NA,NA,
+581,WIFT (Women In Foreign Trade),0,2014,8,DE,NA,NA,
+582,Instituut Defensie Leergangen,0,NA,4,NL,NA,NA,
+583,Leoni,0,1917,1,DE,NA,NA,
+584,Osram,0,1919,1,DE,NA,NA,
+585,Ostbayerische Technische Hochschule Regensburg,0,1971,4,DE,NA,NA,
+586,SAF-Holland SE,0,2005,1,DE,NA,NA,
+587,WEGMANN automotive,0,1882,1,DE,NA,NA,
+588,STIHL,0,1926,1,DE,NA,NA,NA
+589,ENSTA Bretagne,0,1971,4,FR,NA,NA,NA
+590,Airbus Canada LP,0,2016,1,CA,NA,NA,NA
+591,HEC Paris,0,1881,4,FR,NA,NA,NA
+592,ENAC,0,1949,4,FR,NA,NA,NA
+593,École de guerre,0,1876,4,FR,NA,NA,NA
+594,École Pratique des Hautes Études,0,1868,4,FR,NA,NA,NA
+595,Universität Bayreuth,0,1975,4,DE,NA,NA,NA
+596,Astrium,0,2000,1,FR,NA,NA,NA
+597,Cabinet du ministre de la Defense,0,NA,8,FR,NA,NA,NA
+598,Harvard Business School,0,1908,4,US,NA,NA,NA
+599,École National Supérieure de Techniques Avancées,0,1741,4,FR,NA,NA,NA
+600,Sciences Po,0,1872,4,FR,NA,NA,NA
+601,DGA - Direction générale de l'armement,0,NA,4,FR,NA,NA,NA
+602,Università degli Studi di Trento,0,NA,4,IT,NA,NA,NA
+603,Università degli Studi di Padova,0,NA,4,IT,NA,NA,NA
+604,del favero spa,0,NA,1,IT,NA,NA,NA
+605,Consorzio Cavatori Produttori Porfido,0,NA,1,IT,NA,NA,NA
+606,Quarella spa,0,NA,1,IT,NA,NA,NA
+607,Grein Italia SRL,0,NA,1,IT,NA,NA,NA
+608,Ideal Work SRL,0,NA,1,IT,NA,NA,NA
+609,ENA,0,1945,4,FR,NA,NA,NA
+610,Cour des comptes,0,1807,8,FR,NA,NA,NA
+611,Aerospatiale,0,1970,1,FR,NA,NA,NA
+612,ATR,0,1982,1,FR,NA,NA,NA
+613,Airbus Helicopters,0,1992,1,FR,NA,NA,NA
+614,Merck,0,1668,1,DE,NA,NA,NA
+615,Wegmann Holding,0,1981,1,DE,NA,NA,NA
+616,Gelita,0,1875,1,DE,NA,NA,NA
+617,Kemira,0,1920,1,FI,NA,NA,NA
+618,Ost-Ausschuss der Deutschen Wirtschaft,0,NA,1,DE,NA,NA,NA
+619,BorsodChem,0,1949,1,HU,NA,NA,NA
+620,Nexter Systems,0,2006,2,FR,NA,NA,NA
+621,Giat Industries,0,1991,2,FR,NA,NA,NA
+622,Eurenco,0,2004,1,FR,NA,NA,NA
+623,Lycée Polyvalent Paul Constans,0,NA,4,FR,NA,NA,NA
+624,Arts et Métiers ParisTech,0,1780,4,FR,NA,NA,NA
+625,Forschungszentrum Karlsruhe,0,1956,4,DE,NA,NA,NA
+626,Bundesverband der Deutschen Sicherheits- und Verteidigungsindustrie e.V.,0,2009,7,DE,NA,NA,NA
+627,Aerospace Space and Defence Industries Association of Europe (ASD),0,2004,7,BE,NA,NA,NA
+628,Bitkom,0,NA,7,DE,NA,NA,NA
